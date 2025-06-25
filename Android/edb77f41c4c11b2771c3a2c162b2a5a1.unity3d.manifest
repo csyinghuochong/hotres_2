@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3757622627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b8d0f572bce2fdf66738b529934cc91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe86367069b21e4f170454c8c8113167
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/zhanshi_1_pifeng.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/33a7f842be0555d49a01e850b2532683.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/42c6e00846f6232b12855b4dd05e3262.unity3d

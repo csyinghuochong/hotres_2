@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2899680986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 451f7da84b4bc077d60823d8a249af11
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f64856a3d606b613608cbf22df470c60
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Models/\u0421ylindrical\u0421one2.fbx"
+Dependencies: []

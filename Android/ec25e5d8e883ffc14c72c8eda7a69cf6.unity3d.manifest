@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1828305897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 976c0c90e6c152ed0ccdbeb8e465a0e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe86367069b21e4f170454c8c8113167
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/Fashion/fashi_2_toufa.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6f392570e7478134f751754a1204be8a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/ac0c15f66a6c744c2e9bcbfcfd9cda37.unity3d
