@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 781168611
+CRC: 3417596637
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6d9677d9069dc8dd773a413145082afc
+    Hash: ab8281b95c41eb7fd28dfd9f9c24d9ef
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6805b989995362a7717a246e0a118a2b
+    Hash: 0459ccf5ef9da21a951cec4f6b6dadc9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,17 +22,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 114
@@ -80,7 +80,6 @@ Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/66f2251e863661a8ae420a57ffc2bcd8.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/716a608155fbb5fbddf4fef4d2d5e97d.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9ffc8462c60b8d78364e6802e6d031c7.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a1fb55e89335399c761344e4b009d101.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d

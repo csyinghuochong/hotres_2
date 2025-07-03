@@ -3,10 +3,10 @@ CRC: 135113815
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d26bab7a390bce74bb99a893675528f7
+    Hash: 18db9a0040880993418d3fc7e44bd2ae
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0e2d3de4415f61cebda1d358e836cf35
+    Hash: 6d3459df0cfaca49d38df6ba3550e755
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,6 +30,8 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 - Class: 74
+  Script: {instanceID: 0}
+- Class: 89
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}

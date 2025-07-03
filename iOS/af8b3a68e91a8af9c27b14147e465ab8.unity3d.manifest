@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 139021084
+CRC: 133092118
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 02d120f82ea40211a11c700211b36fe4
+    Hash: eb062f65f2f92c35e07b149a0c9f4e82
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 65b525f192be3d1ce311a662cb507119
+    Hash: 0913a564a13a463372ccb10d7e9b47db
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,11 +28,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 114
@@ -83,7 +83,6 @@ Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5775b9d5966f321be1925bbab4e524dd.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5b79e1907d302139005e0c88da53df26.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c08c26f8ed7efdefe74b073753ecf5f8.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c0c32fd33fdd0bb0eaa4b2da41b5992e.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d01f7c89078b78b7265062fb4a740677.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ecdbbeb7ff54389c447e21f96307f403.unity3d

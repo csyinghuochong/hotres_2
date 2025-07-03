@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2796469565
+CRC: 907490209
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 63bd51f1703c5ddfdd2cd2713ccaab20
+    Hash: a624b895acf3cbfe45510a89c39dd51a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 22481643b1164d71b36d8d06eafafb78
+    Hash: 0f18cc4976c2791adb0d70469913d0e7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,13 +38,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
@@ -72,9 +68,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: dcb5ca987faa3b140a1bf23d9386372e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 093b864b8ba8b4941965580d6310498c, type: 3}
 - Class: 114
@@ -132,6 +132,5 @@ Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6616b626c03439ec238ee8180b055303.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7bf40320d53e61553a02a58087b85ebd.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ba8744259bb3e9bab82210311b7d01eb.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/bbb1785fb9a11ef598dd5adbb96b1a18.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c0c32fd33fdd0bb0eaa4b2da41b5992e.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c99f6e18d2ad87ae1cf62a6add9bad61.unity3d
