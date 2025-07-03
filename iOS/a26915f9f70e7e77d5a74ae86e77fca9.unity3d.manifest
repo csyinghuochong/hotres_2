@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1619431660
+CRC: 3033014315
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 01fcc92d26019edbffa1a6903c6b9b28
+    Hash: 5604370779486c0446c6b5795e95431c
   TypeTreeHash:
     serializedVersion: 2
     Hash: f55424abd452ad316cb3a0a8286b4215
@@ -77,6 +77,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/JiaYuan/UIJiaYuanMain.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/19d710edea7b8cdc1c9b0ab6016e7a4e.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/38f7e85de7dbe30f4bf5945ecc0f1083.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/472698f27cfdaa63f01ab01748c7aba1.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4f49dc309a535719742a0ef9ebf4e01b.unity3d
