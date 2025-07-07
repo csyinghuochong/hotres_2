@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3888723603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf027c19b192d65eb7cdfba9d092d049
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d9da41d144468ef771ac0bfebf61c5d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf027c19b192d65eb7cdfba9d092d049
+HashAppended: 0
+ClassTypes:
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/RenderTexture/RoleRenderTexture2.renderTexture
+Dependencies: []

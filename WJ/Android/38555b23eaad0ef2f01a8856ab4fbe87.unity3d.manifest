@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3666312371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab83ae136005690d077c1a980855e0fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab83ae136005690d077c1a980855e0fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A.mat
+Dependencies:
+- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d

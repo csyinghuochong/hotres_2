@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2967472755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9344c3b2d0942003045a13f7ed2b0a0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9344c3b2d0942003045a13f7ed2b0a0d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterModel/Monster/M20006/texture/M20006.mat
+Dependencies:
+- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/fc189ec5683ed8b69414ec99f6a8ba53.unity3d
