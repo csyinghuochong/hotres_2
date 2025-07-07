@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1872780744
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ea5611e16ec53d266c7449ea0d71157
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6ea5611e16ec53d266c7449ea0d71157
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/ShiBing_1.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/9b972be56f20f350ecc8f36f391fc8cb.unity3d

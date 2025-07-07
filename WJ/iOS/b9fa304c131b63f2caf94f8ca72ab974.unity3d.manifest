@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 179086073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b60e2a9511b8b0fb751f5a0297ed9d65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b60e2a9511b8b0fb751f5a0297ed9d65
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Cucumber_01_MetallicSmoothness.png
+Dependencies: []

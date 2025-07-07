@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 492276386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d13087a71ec009840ef85b3fc277ee7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8d13087a71ec009840ef85b3fc277ee7
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/SkillEditor/E3D-Skill-Slow-Vertical-Up.anim
+Dependencies: []

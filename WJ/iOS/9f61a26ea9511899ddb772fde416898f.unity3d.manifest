@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1909247333
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e17aeb8ef9d3002814e161ac174ce4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5e17aeb8ef9d3002814e161ac174ce4a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_464.png
+Dependencies: []

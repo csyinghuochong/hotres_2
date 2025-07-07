@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 978432319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dd9cb057a2ee6200ee07a6166e1142a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9dd9cb057a2ee6200ee07a6166e1142a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/BeamWhite.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/67e09de2cca9549e217fdd435873bf64.unity3d

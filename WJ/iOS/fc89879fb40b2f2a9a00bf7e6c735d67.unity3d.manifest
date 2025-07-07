@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2176064069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5ec0c74d8f824cfd5d4ca000cbddb59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a5ec0c74d8f824cfd5d4ca000cbddb59
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelLogBig.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/dcf336bab3cf92ddbb36058a374044bf.unity3d

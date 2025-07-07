@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1767148243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67656ed100fff59e2ddda5ed8c4f96ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d76d0903a3dfcdecc411f80894a679a8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 67656ed100fff59e2ddda5ed8c4f96ff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/ScenceModel/Simple Dungeon Props - YP/Prefabs/Treasure/Treasure_lid.003.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b62e3ad83a2cd76055e7feebdea3cbfa.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b6f316118abb5d24d364cc2ebf803609.unity3d

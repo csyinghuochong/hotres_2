@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3745306834
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd1968d80cfa0fdf90addeccd98ed705
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd1968d80cfa0fdf90addeccd98ed705
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Eff_Skill_XuanFengZhan/Materials/Swing_Ground.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/45a969328629514d066c96e03fa96f4b.unity3d

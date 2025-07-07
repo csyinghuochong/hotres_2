@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1947679195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e102af5a706b660f287025f40c50d2d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 23f18caaf2c491ae9db28b091670d088
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e102af5a706b660f287025f40c50d2d6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/100101_10.terrainlayer
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/4bc402048b371db21b209f9543f00b03.unity3d

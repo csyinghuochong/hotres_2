@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1292013980
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1be53356eb95608de71988c2fedd1635
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1be53356eb95608de71988c2fedd1635
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_lizi_00125_C.png
+Dependencies: []

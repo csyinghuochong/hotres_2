@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1121952551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d3a06f5085658f8a1d8e8f03f5a8322
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0d3a06f5085658f8a1d8e8f03f5a8322
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/RandowTowerCategory.bytes
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1637709649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f10a92755d0c87d2580759f2c973bce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6f10a92755d0c87d2580759f2c973bce
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Normal/Texture/CRYSTAL_BLUE.png
+Dependencies: []

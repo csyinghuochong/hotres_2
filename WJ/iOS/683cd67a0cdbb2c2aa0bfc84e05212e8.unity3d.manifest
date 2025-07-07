@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3297190860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e44a058caa21385ec40c05e8b7fba54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2e44a058caa21385ec40c05e8b7fba54
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/OldRes/OldNpc/AnimatorSet/Npc_LaoTou.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/dbe0b0701f1c38254ca5e655453d827f.unity3d

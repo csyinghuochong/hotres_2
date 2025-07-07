@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2833417795
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 005d540f0c5d74ec28e8cee9a60971aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 005d540f0c5d74ec28e8cee9a60971aa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_inn_lv5.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/76f3ced867c0b7e057b8088928193600.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/9c6b43975b8d0f416a944b2dfb9fc664.unity3d

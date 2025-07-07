@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1284375543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11fcbd19388a4cf57fc4d82b71a4741d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: adbbc05773a0ca20eae492a5a00365fa
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 11fcbd19388a4cf57fc4d82b71a4741d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 338e9578d1797374b858ead231938d29, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_ChestOpen.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/8c1741ae4da73d6768fd4c8248672456.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/cd254e319c64ff2dd64b468abbd9cd2c.unity3d

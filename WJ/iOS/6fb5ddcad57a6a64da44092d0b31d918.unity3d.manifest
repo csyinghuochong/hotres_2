@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2219511215
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d74a825274c4178582b3ccda3357f9fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d74a825274c4178582b3ccda3357f9fd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_BRD_Lakesi_sj_mx03_002_A.png
+Dependencies: []

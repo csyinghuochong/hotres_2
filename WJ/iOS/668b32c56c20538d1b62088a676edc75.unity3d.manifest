@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 154196545
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df6c8ebf2f13c9cd6dbb46ecc5c62500
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: df6c8ebf2f13c9cd6dbb46ecc5c62500
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/zhanshi_2/texture/zhanshi_pifeng.png
+Dependencies: []

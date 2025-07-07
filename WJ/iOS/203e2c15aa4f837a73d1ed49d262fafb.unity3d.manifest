@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1550333240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89e73b85af629d0806f5c54c8261a0fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 89e73b85af629d0806f5c54c8261a0fb
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/JingLingConfigCategory.bytes
+Dependencies: []

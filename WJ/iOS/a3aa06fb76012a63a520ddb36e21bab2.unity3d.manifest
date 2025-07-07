@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2823031615
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c577be22d8ce15a9075d1e83fb9a596
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0c577be22d8ce15a9075d1e83fb9a596
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/ZhangJie_5/HuoZhiZhu/ZhiZhu_1.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/96f429cc60650a8a185f9085a2429397.unity3d

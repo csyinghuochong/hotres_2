@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4252880056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f709fd6c99e981dddda6e09525f7c353
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f709fd6c99e981dddda6e09525f7c353
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Materials/DropItem.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/325f76d284630cf1ccdc225353029055.unity3d

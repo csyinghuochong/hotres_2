@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3233007290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7595ec155f7fd3b8cd2c17a6c259caa8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7595ec155f7fd3b8cd2c17a6c259caa8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/KuangDong/BianFu_1.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c0d1cd3922f416016fea0db7659af4c6.unity3d

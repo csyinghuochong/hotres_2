@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 123382937
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b96af0e5a18ca2e3383c9b93a53be9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce1fc08df2f758d6d856448290aaf38c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7b96af0e5a18ca2e3383c9b93a53be9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillHitEffect/Eff_Hit_Pueple_3.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/32ae72b2d3b3ab2b1ec7d5a5db78593a.unity3d

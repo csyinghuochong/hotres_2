@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2697903645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9e33e6b6b10056981f896838a41f7ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a9e33e6b6b10056981f896838a41f7ca
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/met/Quzak_Smok_007.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1a37274037e79e9dd4e0371f90dc74a8.unity3d

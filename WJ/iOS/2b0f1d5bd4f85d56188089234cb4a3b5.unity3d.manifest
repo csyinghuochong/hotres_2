@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1292154190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e060c53b081732ad5efa4619f6d7e1bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e060c53b081732ad5efa4619f6d7e1bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Texture/Rock1.tif
+Dependencies: []

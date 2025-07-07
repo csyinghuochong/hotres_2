@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4049978015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be9be88368c4b6c9e8beb32763b1e43a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce1fc08df2f758d6d856448290aaf38c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: be9be88368c4b6c9e8beb32763b1e43a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Glow_A/Glow_A.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/248f6db6090abcc0cb4bc3630c59d1be.unity3d

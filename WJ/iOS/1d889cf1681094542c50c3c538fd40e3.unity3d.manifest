@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1579551726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 719d5e72773ee2b297be6b7eaf5d01a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 719d5e72773ee2b297be6b7eaf5d01a0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_trees_base_Normal.png
+Dependencies: []

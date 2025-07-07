@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3721658935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: afc70d6c95824c5f732ea5323d22c4e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: afc70d6c95824c5f732ea5323d22c4e6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/Water (Basic)/Sources/Textures/Waterbump.jpg
+Dependencies: []

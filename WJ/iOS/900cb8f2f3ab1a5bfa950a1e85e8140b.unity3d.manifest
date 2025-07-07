@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 68140573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ca62c96fc0a9f1de1c703629d101e72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7ca62c96fc0a9f1de1c703629d101e72
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Icon/PastureIcon/10001.png
+- Assets/Bundles/Icon/PastureIcon/10007.png
+- Assets/Bundles/Icon/PastureIcon/10005.png
+- Assets/Bundles/Icon/PastureIcon/10014.png
+- Assets/Bundles/Icon/PastureIcon/10011.png
+- Assets/Bundles/Icon/PastureIcon/10010.png
+- Assets/Bundles/Icon/PastureIcon/10003.png
+- Assets/Bundles/Icon/PastureIcon/10012.png
+- Assets/Bundles/Icon/PastureIcon/10013.png
+- Assets/Bundles/Icon/PastureIcon/10009.png
+- Assets/Bundles/Icon/PastureIcon/10008.png
+- Assets/Bundles/Icon/PastureIcon/10006.png
+- Assets/Bundles/Icon/PastureIcon/10004.png
+- Assets/Bundles/Icon/PastureIcon/10002.png
+Dependencies: []

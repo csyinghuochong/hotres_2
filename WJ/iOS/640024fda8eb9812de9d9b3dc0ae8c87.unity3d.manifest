@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3283974730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d19e74f2a5a50694a3e44700c0e8757
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d19e74f2a5a50694a3e44700c0e8757
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Materials/M_Corn_01.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b1d72f77e85092156704e4ae4f0b8e42.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/bdf7d7e6166f995df262e6c85ca5f576.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/fad373ec6fc848491b4a205f97ab98d9.unity3d

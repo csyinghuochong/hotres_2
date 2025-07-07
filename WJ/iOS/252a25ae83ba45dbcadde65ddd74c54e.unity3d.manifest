@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1938639039
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf9e7cc5a2cf11ccc4b4f0f359f6b452
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf9e7cc5a2cf11ccc4b4f0f359f6b452
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_3/model/FB_mulan01.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/eb0e709e21574e0cfbdd0fd7f6f9e495.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1362543624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a9b1c085ce5338bb9d1a0818dad583d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0a9b1c085ce5338bb9d1a0818dad583d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_1/model/Materials/FB1_X2.tga
+Dependencies: []

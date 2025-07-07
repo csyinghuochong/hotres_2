@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2979129393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3dfb2cedfc7257c338422ec406d96ffc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3dfb2cedfc7257c338422ec406d96ffc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/etc_woodOak01.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c887be2ef0d8eaf041cf3bcebfe59adb.unity3d

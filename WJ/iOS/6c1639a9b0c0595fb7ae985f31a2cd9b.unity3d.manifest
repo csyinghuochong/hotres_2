@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2448276631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff6d0baaba6d8a435c1b06f46db3dc36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b741119252f3b86a01aef952b0dc76ac
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ff6d0baaba6d8a435c1b06f46db3dc36
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/NPC_DuanZao.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/f7f55644bd22bbbf399e2b493415e0c4.unity3d

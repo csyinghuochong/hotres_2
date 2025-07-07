@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3790204478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffa9b766e6c02752566b9147a7fc1c00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ffa9b766e6c02752566b9147a7fc1c00
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/falloffLineAdd.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/33fbe6b6c44fe2958f0dc93b90c22065.unity3d

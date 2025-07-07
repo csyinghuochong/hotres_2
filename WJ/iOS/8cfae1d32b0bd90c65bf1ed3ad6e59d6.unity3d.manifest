@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 924145374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ada966719dd9a9dc2c3e98053ad2d88f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ada966719dd9a9dc2c3e98053ad2d88f
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/dian.mp3
+Dependencies: []

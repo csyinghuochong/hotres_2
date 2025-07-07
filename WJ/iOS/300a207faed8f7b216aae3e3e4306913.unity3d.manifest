@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3182426497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 640dfa54f2e201e1b006deb12252d06a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 640dfa54f2e201e1b006deb12252d06a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_40_1.png
+Dependencies: []

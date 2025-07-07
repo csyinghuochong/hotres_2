@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3855507683
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9244e579056541af0eda0555a52e8f6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9244e579056541af0eda0555a52e8f6a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Shion/Models/Textures/SkinShadow.png
+Dependencies: []

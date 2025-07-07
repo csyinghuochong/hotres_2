@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1787194649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dffe271fe2537ba2579e3bed76f953ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dffe271fe2537ba2579e3bed76f953ba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/met/Quzak_circle_002.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/7b5c591f313edff6db0db30b9c6baea8.unity3d

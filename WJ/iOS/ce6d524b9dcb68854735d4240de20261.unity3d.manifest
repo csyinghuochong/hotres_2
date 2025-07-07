@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3025448670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37d654b202e4f86e969129341d166f16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 37d654b202e4f86e969129341d166f16
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/Stone_elements.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/e4d7e6a9a028b56232e0bec8bb554045.unity3d

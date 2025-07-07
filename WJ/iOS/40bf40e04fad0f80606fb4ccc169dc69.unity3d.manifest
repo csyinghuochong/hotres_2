@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2669551870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 982215f4c4e7327ef173f1be3a23bdda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 982215f4c4e7327ef173f1be3a23bdda
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/BattleDragon/Colosseum/Materials/shadow.mat
+Dependencies: []

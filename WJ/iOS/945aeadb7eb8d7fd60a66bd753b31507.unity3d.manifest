@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1273617818
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5027a378de001b49cc04a7487fcb1adc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5027a378de001b49cc04a7487fcb1adc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_spell.png
+Dependencies: []

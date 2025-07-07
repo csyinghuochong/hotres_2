@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2634285648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: deb0cf5e408699832bd7750bc9047e8b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: deb0cf5e408699832bd7750bc9047e8b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Ice_Decal.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/36bcb535f7e6d3ce5409a21cee373901.unity3d

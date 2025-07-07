@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3454585298
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b5622f0d9c2abda8e5537350e3a300b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1b5622f0d9c2abda8e5537350e3a300b
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/TowerRewardConfigCategory.bytes
+Dependencies: []

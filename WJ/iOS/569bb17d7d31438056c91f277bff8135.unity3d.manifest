@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 45272254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39c3245f7c8c4a6a25a864992337fbbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 39c3245f7c8c4a6a25a864992337fbbe
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Tanxianjia_Atk_Attack_4/wuqi.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a2dc647b8024a90720218cebe46130cf.unity3d

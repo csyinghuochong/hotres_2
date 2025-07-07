@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 436606919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c78ae46565f96c553dc3eebc69d0aab9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c78ae46565f96c553dc3eebc69d0aab9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/Materials/708-1.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/253707db24ba9cd0914eebc5182e1adf.unity3d

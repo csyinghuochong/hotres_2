@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4045090268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ff63e60bda4b7f3d767825bd82a6d9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9ff63e60bda4b7f3d767825bd82a6d9a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt2/Sword slash FX/Textures/Slash4.png
+Dependencies: []

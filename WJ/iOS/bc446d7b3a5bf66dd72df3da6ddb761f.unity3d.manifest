@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1813790175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 389db4c6ade2d93dbe734eb93caf5065
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 389db4c6ade2d93dbe734eb93caf5065
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/TerrainTexture/a1dun_caves_CaveFloor_A.png
+Dependencies: []

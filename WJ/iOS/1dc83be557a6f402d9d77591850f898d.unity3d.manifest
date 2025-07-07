@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1156210869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d226de7ccc3fa5427d7c979343db8d74
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d226de7ccc3fa5427d7c979343db8d74
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Textures/environment_Building_qiao_001_04.png
+Dependencies: []

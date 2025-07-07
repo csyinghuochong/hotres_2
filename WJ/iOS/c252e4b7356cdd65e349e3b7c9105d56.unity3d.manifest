@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 798816687
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f82b8d2bfbe244b1cc8be9b4d5cb1909
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f82b8d2bfbe244b1cc8be9b4d5cb1909
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_OnionGarlic_01_MetallicSmoothness.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1205118268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cda77e71cc1dd3f2436c754dfe1b573
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2cda77e71cc1dd3f2436c754dfe1b573
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Loop4-11.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2959634271
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38c8f73432c1af906246ecd2970ff1de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 38c8f73432c1af906246ecd2970ff1de
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Textures/Trail65.png
+Dependencies: []

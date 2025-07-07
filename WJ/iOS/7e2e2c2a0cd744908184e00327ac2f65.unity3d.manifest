@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 766623781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6870adca1ed1bd7770d401a824879dcf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6870adca1ed1bd7770d401a824879dcf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TJEZTX_Textures_0027b111.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/bba1c88640f4bab6f9609249c846a008.unity3d

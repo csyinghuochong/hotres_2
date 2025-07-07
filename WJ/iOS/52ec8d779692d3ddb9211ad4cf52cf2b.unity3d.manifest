@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1988566929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 900018577bf3d7be52c2fe42babe221e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 900018577bf3d7be52c2fe42babe221e
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectResources/Effects/ModleEffects_Ain/E3D-Skill-Spread-Green-Flower.anim
+Dependencies: []

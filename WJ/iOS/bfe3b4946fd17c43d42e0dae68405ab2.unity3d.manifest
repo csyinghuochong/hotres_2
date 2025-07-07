@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1712313858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fb4a1c71d47acdee37fbd92fe46a87c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5fb4a1c71d47acdee37fbd92fe46a87c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_mupeng_001_01.png
+Dependencies: []

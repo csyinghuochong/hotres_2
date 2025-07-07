@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 575514390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a630b7f0db071826c02df2b0b6ca2179
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a630b7f0db071826c02df2b0b6ca2179
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Models/Materials/SelfIllumYellow.mat
+Dependencies: []

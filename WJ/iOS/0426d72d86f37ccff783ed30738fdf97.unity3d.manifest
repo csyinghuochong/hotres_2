@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3272653015
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a4275a8a13220cf919d97b429d9a0f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a4275a8a13220cf919d97b429d9a0f3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
+  Ice Vol.1/Textures/17.tga
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1366402008
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb3b737f391f41ed321704dd7ea9e5d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cb3b737f391f41ed321704dd7ea9e5d5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TJTX_Textures_2695_4_A.png
+Dependencies: []

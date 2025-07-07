@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 36824782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 647100f00462a0cbfda7b123e9f3335d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 647100f00462a0cbfda7b123e9f3335d
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BossAnimator/ZhuBoss.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/199665dd55620ba5d5729ff2777ea408.unity3d

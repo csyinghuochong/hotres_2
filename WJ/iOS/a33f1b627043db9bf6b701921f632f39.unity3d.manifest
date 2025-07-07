@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1563882117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c6e2081d5b0fb095c48b1c7cf64a58e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8c6e2081d5b0fb095c48b1c7cf64a58e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/Tx_FloorStone01.jpg
+Dependencies: []

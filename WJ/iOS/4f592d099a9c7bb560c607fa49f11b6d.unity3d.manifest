@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3868447516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ac78fb0b724158dd5a0870d5a6e10a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ac78fb0b724158dd5a0870d5a6e10a6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/zhanshi_1/texture/zhanshi_meimao.png
+Dependencies: []

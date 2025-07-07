@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1936485755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c906a59b7e3d149cc93038484b5c7da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bfa64a67ff5b86d1b468d478beba1633
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c906a59b7e3d149cc93038484b5c7da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/ToonyTinyPeople/TT_RTS/TT_RTS_Standard/models/units/TT_RTS_Character_customizable.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/f798d0ec1f77e24fc455a91b714d0117.unity3d

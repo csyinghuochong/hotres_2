@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3813377822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e4fa0fed23f2fb23e72fcc8cbdbd510
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0e4fa0fed23f2fb23e72fcc8cbdbd510
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/modelTree01_1.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1896a8e482d38bddd2e32b0f096103f9.unity3d

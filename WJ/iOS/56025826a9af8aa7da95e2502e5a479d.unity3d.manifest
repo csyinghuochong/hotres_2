@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2246724401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3fe00fda73b20e49adb7f855ee659b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e3fe00fda73b20e49adb7f855ee659b3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Spell-Blast-Violet2.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/66a28afdb19eea914b67578b8cbe71b3.unity3d

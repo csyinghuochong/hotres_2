@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 256896180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b52f8a55b1cc6a5538a8288c5bcf33d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7b52f8a55b1cc6a5538a8288c5bcf33d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Materials/Tx_flower_purple.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/bd0be3b4f82a53e2c28c112f0a8f67ad.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/db08ac9ab1ad6d3fbb92dba93ecbe8bc.unity3d

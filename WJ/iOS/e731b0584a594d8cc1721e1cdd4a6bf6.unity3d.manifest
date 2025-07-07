@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 964969684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f573ff845d0bb01b82000dee76d1a09b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f573ff845d0bb01b82000dee76d1a09b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/ZhuCheng/texture/build/skybox_yun_01.tga
+Dependencies: []

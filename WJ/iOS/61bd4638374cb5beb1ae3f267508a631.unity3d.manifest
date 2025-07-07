@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 426825747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 155f6369e630c05604bba0f67c0ab58c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 155f6369e630c05604bba0f67c0ab58c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Arrows/simpleArrowAdd.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/30c1c5ad98773a5b9f33ce083e64363e.unity3d

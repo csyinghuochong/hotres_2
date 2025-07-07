@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3054008254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ce0fd1d6010011ece89f7b364ea0a78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c4a741bc998ac9508c2cbb90099a4d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9ce0fd1d6010011ece89f7b364ea0a78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Demon/Animations/Fire Demon@Die.FBX
+Dependencies: []

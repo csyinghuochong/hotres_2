@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1620295868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33c2d57b211d577478f7a8ac126a1e02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 33c2d57b211d577478f7a8ac126a1e02
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Corn_01_AlbedoTransparency.png
+Dependencies: []

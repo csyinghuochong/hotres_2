@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1382691490
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 602889424bc2170d174c4298c57321bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0e5d512d53c80c8fe7582c1b6ea86c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 602889424bc2170d174c4298c57321bf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Warrior/Suriyun/Animations/Animations_v3/AnimSD@Dash.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/063b1d375fc60f398487df1d2aefa388.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3425343303
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a4487b20f5d36a96ce8b94c9e871bf5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a4487b20f5d36a96ce8b94c9e871bf5
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/JiaYuanFarmConfigCategory.bytes
+Dependencies: []

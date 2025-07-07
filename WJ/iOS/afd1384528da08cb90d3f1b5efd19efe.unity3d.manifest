@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1061915176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d76931d1e37da22b4f12254c3808f31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d76931d1e37da22b4f12254c3808f31
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Materials/environment_common_xiaobugaolan_001_01.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/20d59f58973d324feb9eaee3e4be94e1.unity3d

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3210569538
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70b01096f1ed130342cf494d92f1e458
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70b01096f1ed130342cf494d92f1e458
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/ShaMo/Materials/Crab_01_mat.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/9f6fa3c0f1b88d923ab2a6ae534e15c5.unity3d

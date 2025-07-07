@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 232578009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 330aa8affbec4a4d10e281b4d9b9e1e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 330aa8affbec4a4d10e281b4d9b9e1e5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/FX/Shine/Element_B.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c881b3d774ee77db6e5fce6555eac569.unity3d

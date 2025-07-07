@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 778036489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95fa7fd0311744505b26d7baa6749d23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 95fa7fd0311744505b26d7baa6749d23
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/SS2.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3028979535
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 209d3d34b33a1d548c89f7fc0cfbfd91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 209d3d34b33a1d548c89f7fc0cfbfd91
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_zhangpeng_04_02.png
+Dependencies: []

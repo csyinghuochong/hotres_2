@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1549132429
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a724dee4f475ed6b43febf103d3add8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a724dee4f475ed6b43febf103d3add8a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/Effect_BeiYong/Effects_01/Skill_Sword/Material/Smoke.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/d972ea8d3fe77438077ee3d2ebc36ea0.unity3d

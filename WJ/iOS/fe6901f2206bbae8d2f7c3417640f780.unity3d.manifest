@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2907649222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e04662ab6f88b52dd0c3711f67dcd2e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e04662ab6f88b52dd0c3711f67dcd2e4
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/chongji.mp3
+Dependencies: []

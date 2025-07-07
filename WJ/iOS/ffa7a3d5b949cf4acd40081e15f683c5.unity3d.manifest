@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2103583139
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebc1d3e604ea8da83fdc3d95b1f9bcce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ebc1d3e604ea8da83fdc3d95b1f9bcce
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Textures/Gazer/T_Fire_Gazer_A.png
+Dependencies: []

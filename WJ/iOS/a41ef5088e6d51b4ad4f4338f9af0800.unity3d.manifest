@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 483877383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3afd0e7b03b46ec31034bf137aba3ef0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3afd0e7b03b46ec31034bf137aba3ef0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Tree/Materials/GRASS_DEAD.png
+Dependencies: []

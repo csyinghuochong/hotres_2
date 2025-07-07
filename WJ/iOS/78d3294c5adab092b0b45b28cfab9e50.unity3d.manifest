@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 381423536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7dbbdf9f52d25867dc708e0277af458
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f7dbbdf9f52d25867dc708e0277af458
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Wagon_pickaxe.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/4fc61c97d08c04dfdbdfce96ef6e87f9.unity3d

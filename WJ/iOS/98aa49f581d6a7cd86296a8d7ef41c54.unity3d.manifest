@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3121614282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7c800f96555614358c8ece682bd1acc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d7c800f96555614358c8ece682bd1acc
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/CampRewardConfigCategory.bytes
+Dependencies: []

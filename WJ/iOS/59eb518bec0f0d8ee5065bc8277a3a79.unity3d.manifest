@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3459784562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1849873de9a999198e53f71d90a7a6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f98f36a9ac66f38ea1db0bffb7fc7171
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e1849873de9a999198e53f71d90a7a6d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e937b0d42fca0174db85a89fe55e2739, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Scenes_FX/Common_FB0_shuiwen.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/5bd50368ba29cf4fa1c8e67a67eda34e.unity3d

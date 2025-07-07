@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 128814670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31de10dd180d9c589a599a28ca0f0f2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 31de10dd180d9c589a599a28ca0f0f2c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Radish_01_MetallicSmoothness.png
+Dependencies: []

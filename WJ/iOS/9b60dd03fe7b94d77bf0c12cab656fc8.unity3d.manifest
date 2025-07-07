@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3819619157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2684c627619ea34e4bd64e5861ca923
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da51c371cb987de4c5a6564d4db74b89
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d2684c627619ea34e4bd64e5861ca923
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/Snake/Snake/Snake@Die.fbx
+Dependencies: []

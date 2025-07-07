@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 253468506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6efb7eaad177407d412f1f48e0b95597
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6efb7eaad177407d412f1f48e0b95597
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/AIR_GUARDIAN_01.png
+Dependencies: []

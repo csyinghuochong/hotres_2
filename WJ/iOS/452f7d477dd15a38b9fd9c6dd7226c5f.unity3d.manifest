@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3322563304
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e1184192997fa0c9ef9adb5f7cb9552
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5e1184192997fa0c9ef9adb5f7cb9552
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Materials/Add_offset03.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/89057ceb5047ffdcd9cb33e3bbfbcb5a.unity3d

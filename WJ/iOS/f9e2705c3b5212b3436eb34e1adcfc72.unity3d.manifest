@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2263748089
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a471b9250e8201bee66ff49537dd087
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9a471b9250e8201bee66ff49537dd087
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TJTX_Textures_0109_C.tga
+Dependencies: []

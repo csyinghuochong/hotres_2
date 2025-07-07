@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 992744040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 254eeb416a18abf260c66fd0c5ecd9d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 254eeb416a18abf260c66fd0c5ecd9d7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/KuangDong/Texture/RATLIN_ARCHER_DESERT.png
+Dependencies: []

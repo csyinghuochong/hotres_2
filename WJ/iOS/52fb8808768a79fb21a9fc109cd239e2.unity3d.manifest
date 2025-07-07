@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 196623471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10be58a5ecaa163efd658fe63dc8233e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 10be58a5ecaa163efd658fe63dc8233e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Materials/environment_building_diaoxiang_004_01.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/56b534f89ac2e71a9ce7c02e4168d400.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2594848671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae3a03d9a759cd0bfaf5ae9065a96f32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ae3a03d9a759cd0bfaf5ae9065a96f32
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/FarmCrops/Textures/T_Wheat_01_Normal.png
+Dependencies: []

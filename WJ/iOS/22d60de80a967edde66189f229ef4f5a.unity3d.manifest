@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2594411167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfc9502450edbeece9ce55d40e6fb977
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dfc9502450edbeece9ce55d40e6fb977
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Gradient9.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4168717243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67bd53f476873bd0fba34df25c9841d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 67bd53f476873bd0fba34df25c9841d5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Shion/Models/Textures/Hair.png
+Dependencies: []

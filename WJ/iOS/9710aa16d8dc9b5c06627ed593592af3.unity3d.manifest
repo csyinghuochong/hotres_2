@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3492586175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccfe1da920faa99a83ffc215833f193d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ccfe1da920faa99a83ffc215833f193d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Common/Textures/environment_common_mudiaoqiao_001_02.png
+Dependencies: []

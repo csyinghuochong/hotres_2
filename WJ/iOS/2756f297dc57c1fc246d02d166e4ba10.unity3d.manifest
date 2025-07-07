@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2290211725
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ac3c0c7abd7e2978c7bf55ea6d37a89
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0ac3c0c7abd7e2978c7bf55ea6d37a89
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Human Pack/Humans/Human Models/Materials/_masterHumandefault.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/5f8b2db9e380e65941aa2836e029ecb3.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/bd56d59b7b8cd1eed2aaff06d93f7814.unity3d

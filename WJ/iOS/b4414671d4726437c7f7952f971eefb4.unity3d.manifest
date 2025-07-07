@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4096817471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a87fa990b8de3f03a41fa9d71cadda2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3a87fa990b8de3f03a41fa9d71cadda2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Sci-Fi VFX/Textures/Beam/AnimatedBeam.png
+Dependencies: []

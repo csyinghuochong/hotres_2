@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2200481750
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19c8bf8d275febf3733221a59aa79148
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fde6811ecc759911b6d3426a16e53445
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 19c8bf8d275febf3733221a59aa79148
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterModel/Monster/M20006/M20006_idle.FBX
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3016571644
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3355c160c2e2bbec2bd86d29d00cc51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f3355c160c2e2bbec2bd86d29d00cc51
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Skill/heyao.mp3
+Dependencies: []

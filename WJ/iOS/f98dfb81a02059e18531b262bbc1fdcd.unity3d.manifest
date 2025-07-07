@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2850777676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f891a1ca145e4385bca0506d0ccebaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1f891a1ca145e4385bca0506d0ccebaa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/ImageBig/Img_68.png
+Dependencies: []

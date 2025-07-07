@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4100534650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 59041a457bd1f37177e8427ac17a4fa2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 59041a457bd1f37177e8427ac17a4fa2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Stone/Materials/Esthgraveyard_mul.002.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1bdd79623159b61700677532bac10425.unity3d

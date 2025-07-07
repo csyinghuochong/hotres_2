@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1443508864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 896cd285dc6f95d18abf9485a043ae26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 896cd285dc6f95d18abf9485a043ae26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_Barrel.jpg
+Dependencies: []

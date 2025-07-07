@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1211818722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d515fe7c2f911216d40013aaed321c45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d515fe7c2f911216d40013aaed321c45
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Common_Buff_dalong/qiliu1.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b130e1c69b34118258cd89b2dc39e2b2.unity3d

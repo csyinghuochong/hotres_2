@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3225517633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f1c4800098996488fefe600dfdbeeb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1f1c4800098996488fefe600dfdbeeb4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Texture/FireRipple.png
+Dependencies: []

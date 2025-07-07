@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2725001040
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06ad69b175a2a3b72550758f7f6378b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 06ad69b175a2a3b72550758f7f6378b7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TJEZTX_Textures_0027b_C.tga
+Dependencies: []

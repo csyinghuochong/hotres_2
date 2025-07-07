@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2699820130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54f8e7395774320f99ba1dbcd6712e5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 54f8e7395774320f99ba1dbcd6712e5e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/T4M/Tutorial/Textures/Sunny2/Sunny2_front.tif
+Dependencies: []

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2989390693
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 527c9d753c99ab69b99ffab66653cf77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 122d0f268c91eb9f0080e7effe3232cd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 527c9d753c99ab69b99ffab66653cf77
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70d2341ffca150489216e6c57222718, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Hit_Ice1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/53858f0f7567d5aee8b8c52bd95d1ebe.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/763b7c30f59671fb8f5325935d18210c.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/7e3b6f3af203d6c2bd136226f046db5e.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/89f9122f4c6dc5d35a1eaaac951c52f2.unity3d

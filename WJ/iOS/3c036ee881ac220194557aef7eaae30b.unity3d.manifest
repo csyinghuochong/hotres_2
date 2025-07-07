@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3275762073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c06f0ed263a92566370bab6bb850713
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5c06f0ed263a92566370bab6bb850713
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_foods_Normal.png
+Dependencies: []

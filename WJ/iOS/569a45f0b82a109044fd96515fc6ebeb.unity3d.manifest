@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2552198503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4515dc63e5f04948d77977738fe6777b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4515dc63e5f04948d77977738fe6777b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/NPC_JiaYuanGuanLi.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1747a9a236d128dea676ae8db09200e8.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/4346896bba7dfc1daba8e83474f6e612.unity3d

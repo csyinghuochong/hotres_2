@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1591451046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 322292dba66e6958b5b5cf7712bcb57d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 322292dba66e6958b5b5cf7712bcb57d
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/MysteryConfigCategory.bytes
+Dependencies: []

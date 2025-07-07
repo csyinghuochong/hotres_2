@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2108363421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e2257c8180ca1a60294d5ee9dc4c27f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0e2257c8180ca1a60294d5ee9dc4c27f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lightning/lightning4.png
+Dependencies: []

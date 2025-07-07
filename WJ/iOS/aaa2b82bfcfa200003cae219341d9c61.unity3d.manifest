@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1035022701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5aba16c67560a799b11f148048705a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b5aba16c67560a799b11f148048705a8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Textures/Smoke24.png
+Dependencies: []

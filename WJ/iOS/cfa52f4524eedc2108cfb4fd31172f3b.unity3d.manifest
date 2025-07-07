@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 588208383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 391dbfe70d47b5cb9aa52a3048bd28b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6b61ea54327afd74accccfed90254a3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 391dbfe70d47b5cb9aa52a3048bd28b1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Effect/SkillZhishi/Skill_Dir.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/52ad1618149a8b634511408564910199.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/93f4121a684493d42bd8640278acf4fb.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c061d644a2da2c3008ab26259434a3fe.unity3d

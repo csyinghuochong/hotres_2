@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2502400912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7696cbe91bd78b5049ee37fccd69a26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b7696cbe91bd78b5049ee37fccd69a26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Stone/Materials/obj_metope_007.tga
+Dependencies: []

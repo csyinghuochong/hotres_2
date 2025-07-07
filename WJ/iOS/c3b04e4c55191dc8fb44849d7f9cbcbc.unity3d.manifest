@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2010904981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2201f2a98e0c0de30a34e0780f872deb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2201f2a98e0c0de30a34e0780f872deb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/ParticleMesh1.png
+Dependencies: []

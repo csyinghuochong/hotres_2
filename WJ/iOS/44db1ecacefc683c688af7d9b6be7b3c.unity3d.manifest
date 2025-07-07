@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2147648392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38a62f0ed07a6cd6863e8c787c95bf78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 38a62f0ed07a6cd6863e8c787c95bf78
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Point48-HDR
+  29.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/f3ee9c3e9cd7d1e416eae048609482fe.unity3d

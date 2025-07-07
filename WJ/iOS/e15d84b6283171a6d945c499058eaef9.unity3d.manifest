@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2668416670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e877b523547824c6716403662dd20713
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e877b523547824c6716403662dd20713
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/BingZhiZhu.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/058bd0192b323cfe329e70b7626dde98.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2927714249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc4314d9cd1299bbebbce4ab5c6ee8dc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bc4314d9cd1299bbebbce4ab5c6ee8dc
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/B1/Effect/Animations/E3D-Spell-Blast-Blue1.anim
+Dependencies: []

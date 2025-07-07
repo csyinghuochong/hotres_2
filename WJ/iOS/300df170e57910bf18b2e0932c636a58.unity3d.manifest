@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1540754324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 933e27e015d2c7b9d1a4728a1372279b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 933e27e015d2c7b9d1a4728a1372279b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_408.png
+Dependencies: []

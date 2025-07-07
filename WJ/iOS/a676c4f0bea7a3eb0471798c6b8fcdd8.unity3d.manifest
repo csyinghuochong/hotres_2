@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1588559880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d1e944e81399161e0e5c41265399ac4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7d1e944e81399161e0e5c41265399ac4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Point/E3D-Point264-bh53.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1548628919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd7e745579fe7cd82b6f1504420de8c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dd7e745579fe7cd82b6f1504420de8c2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/OldScenes/You Xi/Ye Wai Chang Jing/Psd/yewai_shitouwujian.psd
+Dependencies: []

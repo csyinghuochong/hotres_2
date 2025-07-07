@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2429271359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb1c86f48b42b78b1ec0257b87fcf831
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cb1c86f48b42b78b1ec0257b87fcf831
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/UI_FenXiang_2.png
+Dependencies: []

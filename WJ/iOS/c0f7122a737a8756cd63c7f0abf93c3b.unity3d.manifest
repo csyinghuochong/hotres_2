@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4012231322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf8e8033ff0e59a194f694d39b0ec4dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cf8e8033ff0e59a194f694d39b0ec4dd
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Materials-E3D/E3D-Ring71.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c51b9a97855b05cc8b98ba2095585a3d.unity3d

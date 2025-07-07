@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2197230255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5810dbda91cd9e7aed5bcfb56fc93d0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5810dbda91cd9e7aed5bcfb56fc93d0f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/BackBlur/BackBlur.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d

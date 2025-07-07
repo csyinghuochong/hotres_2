@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3247907506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f0b7bdfa8def6f4f0def545fa30aa2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1f0b7bdfa8def6f4f0def545fa30aa2d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_Accessories_lv1.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/399f09fb4acdd8c7927a40915d54b671.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/5d3696bf5b7a2f4a7231f273d88b556f.unity3d

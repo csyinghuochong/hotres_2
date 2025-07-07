@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3395802926
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98c7b33f2da32b803e8d4afcfab6f6cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 98c7b33f2da32b803e8d4afcfab6f6cf
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Anim/UV4x4.anim
+Dependencies: []

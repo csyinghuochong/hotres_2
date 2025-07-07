@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2134826852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e0e39036fe1a6e94c24947369e80149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0e0e39036fe1a6e94c24947369e80149
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleZhanShi/tga2/zhanshi_pifeng.tga
+Dependencies: []

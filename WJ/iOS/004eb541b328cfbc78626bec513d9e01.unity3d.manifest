@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 766741883
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8cb9e2224fc773edbd9e25bcce7d51bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8cb9e2224fc773edbd9e25bcce7d51bf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Atlas/MainUI/Pro_17.png
+Dependencies: []

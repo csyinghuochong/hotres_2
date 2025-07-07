@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 351561238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cd376118ef3aa2b65d33c6bc94b440ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cd376118ef3aa2b65d33c6bc94b440ad
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-D011.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/161853b86cbc8af0b2a93806c7f33f74.unity3d

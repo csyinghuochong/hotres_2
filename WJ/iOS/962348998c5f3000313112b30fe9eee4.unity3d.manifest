@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3092816810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36a1fd0bcf1a8ccfe022d87f5dcc1fbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 36a1fd0bcf1a8ccfe022d87f5dcc1fbf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_297.Png
+Dependencies: []

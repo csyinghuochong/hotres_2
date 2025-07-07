@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1269683791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f625af02c42276fbbb729cc3d588a46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6f625af02c42276fbbb729cc3d588a46
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/AnimatorSet/NPC_FuHua.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/128395e31b48e68d8463f75f9a2c27cb.unity3d

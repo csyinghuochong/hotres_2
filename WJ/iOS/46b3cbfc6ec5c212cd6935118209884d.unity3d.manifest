@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2437698405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12c92054bcc2df9bcaf573e78cefb08c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 12c92054bcc2df9bcaf573e78cefb08c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Light_Decal.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/f8323820e95ecef74085dac71ee0e8a9.unity3d

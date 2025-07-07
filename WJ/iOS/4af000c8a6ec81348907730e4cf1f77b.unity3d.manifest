@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 128734157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b6efcfffcf10124a8fc830f5d1ea1eb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b6efcfffcf10124a8fc830f5d1ea1eb8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Parts/4pebbles.png
+Dependencies: []

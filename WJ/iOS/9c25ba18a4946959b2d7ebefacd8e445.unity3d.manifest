@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2853026646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b4ea163b991dc4dd1cef6b617a098e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1b4ea163b991dc4dd1cef6b617a098e6
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_spell_roof.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/be3693e5daf7b3523ffe0fb7c8ffb7e2.unity3d

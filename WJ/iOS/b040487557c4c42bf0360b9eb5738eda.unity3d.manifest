@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 459518790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4844cc9a02ce648583845f8bb0bfa8d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4844cc9a02ce648583845f8bb0bfa8d4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Idyllic Fantasy Village/MATERIALS/TEXTURES/M_rope_nrm.png
+Dependencies: []

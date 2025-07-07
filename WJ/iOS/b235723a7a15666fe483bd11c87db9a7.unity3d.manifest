@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4157655900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25e372e4bcfa7f6ccadff0c38c327f86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 25e372e4bcfa7f6ccadff0c38c327f86
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Textures/BoxA_1.jpg
+Dependencies: []

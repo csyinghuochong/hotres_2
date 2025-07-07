@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 100498998
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e7567373409c3f1689d3a40ca8c1c50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6b3de2550ba45d59b01c9597ad04d39d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9e7567373409c3f1689d3a40ca8c1c50
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_FuHuo.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a5dc71bef9506e47861beca53ccdaf45.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/cd5059a24ac90788d9d14316066c5f39.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/ecd0d5175321a2179f2b1e3728361372.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/f34b21baa823318fa6de07b8897e1d0f.unity3d

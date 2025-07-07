@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 715359628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e347638289eaccb1a0cf1f3c88a249fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e347638289eaccb1a0cf1f3c88a249fd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Trajectory_Blur.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2639022733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 832a8e4cfb77b2f1d0cf46aabd813451
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac0487d820e8be09ac3c0dc89c97095d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 832a8e4cfb77b2f1d0cf46aabd813451
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Npc/Npc_Rank.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/70777ce7515091fdb2c139818e0d32e0.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a41bc0ded7236b897beb18b023714c91.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c78f58a2cd597b211649736898367dc6.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2930720167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b90ddc5aa7ee370a3e6e81c1b94caf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2b90ddc5aa7ee370a3e6e81c1b94caf4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Textrue/Tx_flower_purple.jpg
+Dependencies: []

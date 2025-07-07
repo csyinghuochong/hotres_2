@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1974422202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e7f53a4d8395f405537efa94da1c41c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8e7f53a4d8395f405537efa94da1c41c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/UI_duizhan_baoxiang/UI_duizhan_baoxiang.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/12bbd6e0afd871b122c51e89059964ff.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/3aec9cd0bbe859c9bb65f6f20e1f98d6.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/7ae56286fd56948fc278f091ed80cede.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/cf96dfdf47ac2881a3c569f758f01c66.unity3d

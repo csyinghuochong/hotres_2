@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 726573877
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66fea86a2df5b0bdb48c5078fbca2ca0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 66fea86a2df5b0bdb48c5078fbca2ca0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Tree/Materials/GRASS.png
+Dependencies: []

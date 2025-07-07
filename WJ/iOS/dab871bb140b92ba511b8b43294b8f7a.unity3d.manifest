@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 303428257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd35615a462be07203b9876c3847c45c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dd35615a462be07203b9876c3847c45c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Pro/Pro_16.png
+Dependencies: []

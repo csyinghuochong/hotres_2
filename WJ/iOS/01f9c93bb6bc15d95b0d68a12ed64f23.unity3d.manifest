@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4012730407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e8571157d65ca10c6c7d69dcd65072e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9e8571157d65ca10c6c7d69dcd65072e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lights/basicRingAdd.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/72008ba6bb865360c57c417cdd774203.unity3d

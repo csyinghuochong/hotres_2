@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1744055035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 643de64a5bb17daf401ee7fb2b40902e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 643de64a5bb17daf401ee7fb2b40902e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Textures/Snow2.png
+Dependencies: []

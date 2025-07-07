@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2543981190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cce1adadd6fb74340319ef9a2cc554be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d0075cbe5917999e5ab1b01661c9e12
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cce1adadd6fb74340319ef9a2cc554be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Warrior/Suriyun/Animations/Animations_v3/Avatar_SD.fbx
+Dependencies: []

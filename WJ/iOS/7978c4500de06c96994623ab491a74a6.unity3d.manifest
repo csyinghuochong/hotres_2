@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2867426711
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b324096a1e50db2079020e7530d93a72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b324096a1e50db2079020e7530d93a72
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/PetEggDuiHuanConfigCategory.bytes
+Dependencies: []

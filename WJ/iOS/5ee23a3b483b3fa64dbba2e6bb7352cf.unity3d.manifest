@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2071539686
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55a695b4903c72d5d0c660614336f1c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 55a695b4903c72d5d0c660614336f1c0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Weapon_Emissive.tga
+Dependencies: []

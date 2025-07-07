@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1547411542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da3d0da15ed4a2153284a4dd334f4c84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: da3d0da15ed4a2153284a4dd334f4c84
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/SceneConfigCategory.bytes
+Dependencies: []

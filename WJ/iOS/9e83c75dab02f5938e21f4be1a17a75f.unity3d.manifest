@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2952777631
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52d09195e1151dea536524b225fa7f71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 52d09195e1151dea536524b225fa7f71
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Meshes/ForestSpirit/ForestSpirit.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/4c9df2c24d4698464809d64dd8a0eb2b.unity3d

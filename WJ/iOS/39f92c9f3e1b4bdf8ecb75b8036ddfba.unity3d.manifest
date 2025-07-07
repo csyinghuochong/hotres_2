@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 593295354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85c492900de78dfe415ee2a7f779c844
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 85c492900de78dfe415ee2a7f779c844
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/questmarker_purple.png
+Dependencies: []

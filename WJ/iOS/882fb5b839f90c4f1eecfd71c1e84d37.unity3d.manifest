@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 733694731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e687020cf7839c6e2c70cff9803a2b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4e687020cf7839c6e2c70cff9803a2b3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectResources/Effects/ModleEffects_Ain/E3D-Buff-Continuous-Violet-Loop.anim
+Dependencies: []

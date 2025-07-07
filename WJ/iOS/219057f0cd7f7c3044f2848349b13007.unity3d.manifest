@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2733960062
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68532d861fad6ca0100ec4ab4b00612d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 68532d861fad6ca0100ec4ab4b00612d
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/SeasonLevelConfigCategory.bytes
+Dependencies: []

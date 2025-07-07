@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 427663243
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0eea9f34a312a1fae883de1920b120d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0eea9f34a312a1fae883de1920b120d7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/shangguang01.tga
+Dependencies: []

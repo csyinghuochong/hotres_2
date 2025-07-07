@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2372755885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 892cb24bcdf5c4c147de0a1ca2b5889b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 892cb24bcdf5c4c147de0a1ca2b5889b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Materials/Fresnel4.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d

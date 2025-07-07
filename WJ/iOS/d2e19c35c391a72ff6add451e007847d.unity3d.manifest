@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1237030690
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1261ac50636a1b17766cbe94bbf1c09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c1261ac50636a1b17766cbe94bbf1c09
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/Lantern_winter.tif
+Dependencies: []

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4158181084
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3554e57bb6c846a29e5df1ec4df81871
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3554e57bb6c846a29e5df1ec4df81871
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/environment_building_pingtai_004_d_1.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/3fb94279d9e240fa00c991f9c1e365b2.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c03f53eb479bf4ba95ff342fa9802aa6.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c308a62a2e233cbbe96280e70e7f0ff1.unity3d

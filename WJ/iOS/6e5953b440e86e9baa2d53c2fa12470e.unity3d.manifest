@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3674692772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efe410146608b7e52b006ddf1cad54ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: efe410146608b7e52b006ddf1cad54ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/Scence/Modle/Other/Yxsl_1/prefab/Yx_diaosu01_002.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/57a9be05d8c244d33234d262e196d10b.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/98296d9c01e9ad65e426e0c61793c714.unity3d

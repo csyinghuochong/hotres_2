@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 871955785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b0e1c1deb5b30eda1e2eb9c019e4f4e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3b0e1c1deb5b30eda1e2eb9c019e4f4e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Point15.png
+Dependencies: []

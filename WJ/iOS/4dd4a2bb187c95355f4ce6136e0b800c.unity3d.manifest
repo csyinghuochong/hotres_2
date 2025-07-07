@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 613734839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6cd29ed48e6f339f4ebbccb3744df386
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6cd29ed48e6f339f4ebbccb3744df386
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/ShiZhuang/zhanshi_2/texture/zhanshi_xiezi.png
+Dependencies: []

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2173373713
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44a96e0d4c30a49e8e90f2f8b0f7ef85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 316162263003d3ca5b3ffec5afe24edf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44a96e0d4c30a49e8e90f2f8b0f7ef85
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/2/Hero_toufa.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/294cbba965d5fff35c31e006bb01c715.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/d3f395e1c582b7bf2a2a4240a34b1521.unity3d

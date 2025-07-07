@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2203990983
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c575911b022b63529f43bba7c500a7aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c575911b022b63529f43bba7c500a7aa
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/PetAnimator/1000601.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/2617a5b4d6b72ded7e26ad98ba0219f8.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/52f299edd4c456e9b3f066138be1a873.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/9c55aac2134a6304629247fed31eff17.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/e1dcdb0d1212bd4067b5fafe871be2b3.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/edf1276e336b4a64a6a4fc76202df449.unity3d

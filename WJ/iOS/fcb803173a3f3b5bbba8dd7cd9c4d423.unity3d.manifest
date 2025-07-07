@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3382077272
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eff5e5919c684dd697ea5d2b7e38ebed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eff5e5919c684dd697ea5d2b7e38ebed
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/yanshi.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/766c14237b931ce672c38bfa2e0d0a4f.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/e4870c4792254d9df689fc3200eed524.unity3d

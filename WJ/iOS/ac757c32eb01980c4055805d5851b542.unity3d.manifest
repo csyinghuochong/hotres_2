@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4284866450
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a455fb92fadbc5db4b1c6a01ea573fea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 88f4053155d2c8e8bdeb16c00867b658
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a455fb92fadbc5db4b1c6a01ea573fea
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/Water (Basic)/Sources/Objects/Materials/water
+  plane-lambert1.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/2a094f30f081ecf0672dae995eef5279.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/41b55d3c87580ed52b1ef60a1abcacb8.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/fcb16aee83f3edaeb655215be6e5dd5e.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/fd3155a9f3da4ab4e24190b3da103845.unity3d

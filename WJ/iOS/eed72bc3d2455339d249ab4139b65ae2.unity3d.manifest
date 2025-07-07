@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2495265405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9bb0aad3c51559a172f074ea48381d0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9bb0aad3c51559a172f074ea48381d0d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/RoleModelSet/RoleZhanShi/tga2/zhanshi_toufa_2.tga
+Dependencies: []

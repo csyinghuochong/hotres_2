@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3348851329
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3b8444e6169f0b221bdea2c9bce3211
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c3b8444e6169f0b221bdea2c9bce3211
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/Trajectory_Blur.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1bd576701ed9c7e2c002988e0480dab7.unity3d

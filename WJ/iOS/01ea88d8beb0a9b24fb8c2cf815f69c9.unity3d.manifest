@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3840706448
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: daa4c182bdfbb0d3402cfab176be0656
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: daa4c182bdfbb0d3402cfab176be0656
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Building/Model/Tent1.fbx
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/73f2317093383dfbdec3b0326ff0bf67.unity3d

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3532597445
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85fc5894be527c1e85f733c77b8a491e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 85fc5894be527c1e85f733c77b8a491e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Toon_RTS/Elves/models/Materials/ELF_HighElf_Standard_Units.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b82fb56f4b09378b8ccf8f55d212092d.unity3d

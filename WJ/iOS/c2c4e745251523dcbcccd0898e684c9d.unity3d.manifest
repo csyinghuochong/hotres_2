@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2909849162
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fc6f95c28ac66329fb85c3eb4dee7d2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8fc6f95c28ac66329fb85c3eb4dee7d2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_path_00434_C.tga
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1441474949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ea2061f034f5630b0125983f313bb0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 767148d2cba1a92a15442f2b767884c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3ea2061f034f5630b0125983f313bb0e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Player/ZuoQiShowSet.prefab
+Dependencies: []

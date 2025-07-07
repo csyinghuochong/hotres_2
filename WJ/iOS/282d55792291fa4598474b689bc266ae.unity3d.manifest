@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1556533196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fa6d2ce6f5f42dca0f7b58d93c3c9ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3fa6d2ce6f5f42dca0f7b58d93c3c9ef
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Imgage/Img_232.png
+Dependencies: []

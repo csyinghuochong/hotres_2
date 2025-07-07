@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4069405332
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47e7ecd407ae2dcd0ff2cba7cfcb7e07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 47e7ecd407ae2dcd0ff2cba7cfcb7e07
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/3DModel_Cute/Cute Pet/Cute Pet/Texture/Horse_A.png
+Dependencies: []

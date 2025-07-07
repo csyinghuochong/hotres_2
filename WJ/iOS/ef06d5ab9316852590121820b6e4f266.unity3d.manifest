@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3851805407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e60f7a702d1e30c959f244d2937a7f29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e60f7a702d1e30c959f244d2937a7f29
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_glow_00175_A.tga
+Dependencies: []

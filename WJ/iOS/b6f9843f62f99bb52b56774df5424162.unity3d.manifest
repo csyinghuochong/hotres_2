@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3692667873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2ca672ff456705c189058691f96e65b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a2ca672ff456705c189058691f96e65b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/Monster Pack Fire/Textures/Fire Pig/T_Fire_Pig_A.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2349733899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6faba8943078173092fd342e1b830626
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6faba8943078173092fd342e1b830626
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Tree/Texture/plant_vege_064_01.TGA
+Dependencies: []

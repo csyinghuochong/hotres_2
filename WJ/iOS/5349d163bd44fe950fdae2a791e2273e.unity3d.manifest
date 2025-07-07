@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3825707583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb9a92b37e0cceb1b2c62228046e57c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cb9a92b37e0cceb1b2c62228046e57c4
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/UnionQiangHuaConfigCategory.bytes
+Dependencies: []

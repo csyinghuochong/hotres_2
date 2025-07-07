@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1958123394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7540a53fd6d0184a2bb09a39b25d3e20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7540a53fd6d0184a2bb09a39b25d3e20
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Point139.tga
+Dependencies: []

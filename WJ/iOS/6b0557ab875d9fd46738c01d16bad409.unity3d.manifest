@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3566876896
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aed8e81f9ab72e4fc051db4ed5640428
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aed8e81f9ab72e4fc051db4ed5640428
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Textures/Flash21.png
+Dependencies: []

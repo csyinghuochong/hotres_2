@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 430527042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd12b53e26a6eabf4ea7a1260d1f8d0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dd12b53e26a6eabf4ea7a1260d1f8d0e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/Material/Dust_A.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a42d33e35aa394876a7b1d24f6a0cc41.unity3d

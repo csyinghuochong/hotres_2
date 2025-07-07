@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2286343621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ee1fa86ba8478bfe8cb7915b506be9eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ee1fa86ba8478bfe8cb7915b506be9eb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Other/Warp/WarpGround.png
+Dependencies: []

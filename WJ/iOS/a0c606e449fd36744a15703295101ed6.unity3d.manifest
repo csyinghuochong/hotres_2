@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 4231152552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a160540eadbf23b82d6ba0667c83780a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a160540eadbf23b82d6ba0667c83780a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Materials/Mobile/Flames01_MobAdd_4x4.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/d063fd0b773d58b154ce8ad9272031ac.unity3d

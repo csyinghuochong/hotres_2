@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 635932396
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 352f4971a1fbfba50c43e35a7a2d246f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 618316c8167c7e3ed46bc262a34af1a0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 352f4971a1fbfba50c43e35a7a2d246f
+HashAppended: 0
+ClassTypes:
+- Class: 319
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/SD Unity-Chan Haon Custom/Animation Setting/_Humanoid And Add-Bone.mask
+Dependencies: []

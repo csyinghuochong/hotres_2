@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3547226741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7a9dc7b9a7ded0ba4575f7ea77934f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b7a9dc7b9a7ded0ba4575f7ea77934f7
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Animator/72001004.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/2dc02cbd668912bed25c7b873fb8a8e3.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/384352baf16d9f9a665b580dd210b65a.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/83d93a03854a17fe3b1813a9928cf5b5.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/9ce81cedc13339fecdd0efc1736566ad.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a33b4583f9aed1122dcdd5d60e01b491.unity3d

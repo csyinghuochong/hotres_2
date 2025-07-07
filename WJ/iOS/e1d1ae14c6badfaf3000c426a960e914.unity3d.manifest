@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3612684352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 200c6cbe51fcd1f9abe2c4ad629a6233
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 200c6cbe51fcd1f9abe2c4ad629a6233
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Model/Effect_Fire.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/bd14cb481f2810faf42b0b2fd115bfe0.unity3d

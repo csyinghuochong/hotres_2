@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1474600840
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4746f3a82e845714db01295258a42bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e4746f3a82e845714db01295258a42bb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/texiao/Textures/Glow_1.png
+Dependencies: []

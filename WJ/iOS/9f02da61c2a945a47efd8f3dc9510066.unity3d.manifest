@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 555758879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94f54fcd6885a6f9bb06bfbdbbb1afb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 94f54fcd6885a6f9bb06bfbdbbb1afb9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Lightning/lightning4.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/0cefb1ac22c79a5268481570e56dc736.unity3d

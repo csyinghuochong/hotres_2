@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 132271984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9047f2df6df0ccee816aacdba714f61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b9047f2df6df0ccee816aacdba714f61
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Materials/tent_stump.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/2978c92fceff69a152b49b14d9dfcb31.unity3d

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3600624089
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c802791d898aa1f2d373d5d976c794e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8c802791d898aa1f2d373d5d976c794e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Textures/Trail25.png
+Dependencies: []

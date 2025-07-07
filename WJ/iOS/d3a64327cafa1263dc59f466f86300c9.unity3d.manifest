@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2008228505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e28a800b1e47724a92604fc416ba78e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9e28a800b1e47724a92604fc416ba78e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/Materials/building_Accessories.png
+Dependencies: []

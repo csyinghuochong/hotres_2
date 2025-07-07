@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3256196730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfe0c1ceb4e3b5d9f8122b22a2d4e89b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bfe0c1ceb4e3b5d9f8122b22a2d4e89b
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/SkillWeaponConfigCategory.bytes
+Dependencies: []

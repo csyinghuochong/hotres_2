@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3753277530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ba5088732ddfbc26120b0eeefbed0eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2ba5088732ddfbc26120b0eeefbed0eb
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/BossAnimator/70006013.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a21c758b70bf1e3ea3de74d70905c939.unity3d

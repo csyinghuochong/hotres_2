@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 700415117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c3d024678f66cf61c7d237f0a289789
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4c3d024678f66cf61c7d237f0a289789
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/ShaMo/Texture/CRAB_01.png
+Dependencies: []

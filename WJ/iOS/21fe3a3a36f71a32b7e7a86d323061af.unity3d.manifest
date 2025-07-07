@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2361176784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e9fdf13b2a6889078ab49b8bbdc8138
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9e9fdf13b2a6889078ab49b8bbdc8138
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/obj_small_047_01.tga
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2585719584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ead13e69efcb6e03d2b2d5cb3911413
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3ead13e69efcb6e03d2b2d5cb3911413
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/StylizedProjectilePack1/materials/bullet/bullet_line_additive.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/8397515bbba5cc9b7f40ad60c9f315d6.unity3d

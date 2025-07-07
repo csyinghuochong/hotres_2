@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2166606794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fe9685a0316cef165753db6f1b32280
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0fe9685a0316cef165753db6f1b32280
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/Stone_elements_Winter.tif
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1074549000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4f8cf2e53d402600fb6887146bde39e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f4f8cf2e53d402600fb6887146bde39e
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/SkillZhiShi/Effect/Textures/item/Materials/item_028_p_3_blue.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b8c8acd0627d3c0c8c6229864041527d.unity3d

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1091194473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 579869aefae7e55ee4c84faed14d2a15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 579869aefae7e55ee4c84faed14d2a15
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/cloud01.png
+Dependencies: []

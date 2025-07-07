@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 453333819
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1123536f17df9b1aab78431bf972a80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f1123536f17df9b1aab78431bf972a80
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/spikes05.png
+Dependencies: []

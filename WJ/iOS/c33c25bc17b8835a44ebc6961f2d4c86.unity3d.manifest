@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3384988346
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed20ca19906e28f53dd7086c29e8a674
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ed20ca19906e28f53dd7086c29e8a674
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/ShurikenMagic/ParticleMaterials/Rituals/ritualLightningAdd.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/9eeede341536c941b85afa1d4cda029f.unity3d

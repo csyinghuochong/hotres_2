@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 628419767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 101b3991b2825d2c0d836255fa42f5cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 101b3991b2825d2c0d836255fa42f5cd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/Magic 00817.png
+Dependencies: []

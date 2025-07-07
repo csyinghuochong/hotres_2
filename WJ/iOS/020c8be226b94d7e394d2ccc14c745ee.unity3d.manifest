@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3939344115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aeecec6f83ca93820ff0f1906df1b1f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aeecec6f83ca93820ff0f1906df1b1f5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Point/E3D-Point151.png
+Dependencies: []

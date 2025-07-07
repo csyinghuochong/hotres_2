@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4181257325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 352d4b2b436855e58d6f527ff0c5dd93
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 352d4b2b436855e58d6f527ff0c5dd93
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect2/EffectPackage/ArtData/Textures-E3D/E3D-Point124.png
+Dependencies: []

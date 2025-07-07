@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 845929038
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2011b37c9be2a1443b9320d9d6c89af3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2011b37c9be2a1443b9320d9d6c89af3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/WeaponModel/Materials/MegaPack01.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/f307d21beb124cc42e3addf08d037c5d.unity3d

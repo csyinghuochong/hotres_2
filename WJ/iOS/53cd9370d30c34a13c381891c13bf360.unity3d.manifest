@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 737593752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18150b78e0fe2e287152b609a4b760b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 18150b78e0fe2e287152b609a4b760b5
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/Suriyun/MEGA Monsters Pack/TeruTeru/Animation/Teruteru.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/132df6e393f51790ec90814006677a40.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/9e31d3149bfd768a98f24867fb5e6a38.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a0f9f6c659f969ed979b6e41e7d610da.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a9652b4f6594110f9284f9becccebd1f.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/ca0a0d54e0cf339f7915c0344ffacd4b.unity3d

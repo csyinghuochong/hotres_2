@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2546356127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d1d8b106251886fb8424542f95ed534
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4d1d8b106251886fb8424542f95ed534
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_1/model/Materials/FB1_tietu16.tga
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1363437734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fc3a704e85c568ec426e6f3f8d44423
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9fc3a704e85c568ec426e6f3f8d44423
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Texture/Light_Smoke.PNG
+Dependencies: []

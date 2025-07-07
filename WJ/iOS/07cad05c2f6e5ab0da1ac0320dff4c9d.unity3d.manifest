@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 557878351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 647b7a86d3c0d07ca53fffaec05a1ae1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 647b7a86d3c0d07ca53fffaec05a1ae1
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Config/DungeonConfigCategory.bytes
+Dependencies: []

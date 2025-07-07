@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1534203428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a8fc09e54bc341bebd45d189e9516ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2a8fc09e54bc341bebd45d189e9516ac
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Direction/E3D-Direction354-d12.png
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4206175010
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2206cadb8c2ff1d253eb9bd3e71fd696
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2206cadb8c2ff1d253eb9bd3e71fd696
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/NPC/Old/FBX/UseModel/BoShi.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a2b856543a25db8d3c5e8bd02225bfd6.unity3d

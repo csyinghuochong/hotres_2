@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4113614810
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7729a2668783293cfa87d0eb3aad70be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7729a2668783293cfa87d0eb3aad70be
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/Skill/Texture/blastmarkwide1.png
+Dependencies: []

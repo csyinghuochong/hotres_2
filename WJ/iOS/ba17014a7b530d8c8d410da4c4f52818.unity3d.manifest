@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2160340839
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 63bfec02fb1f179294a3a84d021b0d0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 63bfec02fb1f179294a3a84d021b0d0d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/game_effect_v01.2/met/Quzak_shockwave_003.png
+Dependencies: []

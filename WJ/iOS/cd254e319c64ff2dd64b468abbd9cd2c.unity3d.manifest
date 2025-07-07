@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 677441498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54d9249637838e1fe87350f4a4b3942a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 54d9249637838e1fe87350f4a4b3942a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Materials/Misc/treasure_ray.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/8552b6ff659d596d0d9ac3bbc72ceada.unity3d

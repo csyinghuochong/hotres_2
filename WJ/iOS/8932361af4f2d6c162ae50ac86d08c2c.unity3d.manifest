@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4029952159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18ba9e6f89bede6c2c139efc0b21a28c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 134b7874faf1e4f485ed3c5a681e862b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 18ba9e6f89bede6c2c139efc0b21a28c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy upgrade building/building/building_weapon_lv1.FBX
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/43143ac401637e9d91edc72a92d0f4fb.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/cdc9df6341281abffa9ef13d646f609f.unity3d

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 696174872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1911d4f6544fc41c2be1a7de94f7b8b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fde6811ecc759911b6d3426a16e53445
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1911d4f6544fc41c2be1a7de94f7b8b3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Fire Dragon/Legacy/Animations/Fire Dragon@FlyBiteAttackLow.FBX
+Dependencies: []

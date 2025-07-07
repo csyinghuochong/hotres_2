@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4100037352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06a77d27658527e9e10f1f4fe2abeed3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 06a77d27658527e9e10f1f4fe2abeed3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Trail01.PNG
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2545146588
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b84d74d95a1e1e947c7952172ee7b2d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b84d74d95a1e1e947c7952172ee7b2d4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Building/Textures/environment_Building_cunzhuang_004_01.png
+Dependencies: []

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1401363636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db7c97e8d6fc35711a2ae04c739fbe23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: db7c97e8d6fc35711a2ae04c739fbe23
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/RFX_Resources/Materials/FlameBomb_Explosion.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/d07cab353655437f1ce80d8aff552914.unity3d

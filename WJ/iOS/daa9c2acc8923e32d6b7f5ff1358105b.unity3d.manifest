@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1062897562
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eff91bfa33d79cbb652d94b0e7a56801
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eff91bfa33d79cbb652d94b0e7a56801
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/xiaozhen/Materials/Tx_Potion.mat
+Dependencies: []
