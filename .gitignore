@@ -3,7 +3,9 @@ WJ/DLCBeta/Android/res
 WJ/Android/res
 WJ/iOS/res
 project_sharesdk/.idea
+project_sharesdk/.vs
 project_sharesdk/Library
+project_sharesdk/Logs
 project_sharesdk/obj
-
+project_sharesdk/Temp
 project_sharesdk/1.apk
