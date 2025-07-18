@@ -1,18 +1,20 @@
 ManifestFileVersion: 0
-CRC: 3666312371
+CRC: 2734434336
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ab83ae136005690d077c1a980855e0fa
+    Hash: f85fe322cfc27bb140b520d85230a277
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
+    Hash: b30fce1a9ad74efb72be6c308c56e365
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ab83ae136005690d077c1a980855e0fa
+    Hash: f85fe322cfc27bb140b520d85230a277
 HashAppended: 0
 ClassTypes:
 - Class: 21
+  Script: {instanceID: 0}
+- Class: 28
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
@@ -20,4 +22,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/OldResources/3DModel/ScenceItem/Scence_Hua/Plant_A.mat
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/6329596746b7d76b2c5df64b1ce74b20.unity3d
