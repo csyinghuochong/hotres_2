@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2256731750
+CRC: 1668515020
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5e10f098fe3332bcdd76b4a46890582e
+    Hash: 65f99d329b82a8caf1a123cd48f773d1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 188cbeaa1952c68d04e43601af7593b3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5e10f098fe3332bcdd76b4a46890582e
+    Hash: 65f99d329b82a8caf1a123cd48f773d1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,13 +60,13 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/CellDungeon/UICellDungeonRevive.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/004b8fee7f96c121490864b4efcef02c.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/205b68b81852f2f93ef18a9b43898881.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/26127c36397d1ec9808c54cd75f329ca.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/6a0d7ca8b85a44f67b9e145654bdb29f.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/6b32a93398eaa44ebd61633a19c6cf91.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/c70bf2473f526d1f8e398a9a22e11327.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/f98dfb81a02059e18531b262bbc1fdcd.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/004b8fee7f96c121490864b4efcef02c.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/205b68b81852f2f93ef18a9b43898881.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/26127c36397d1ec9808c54cd75f329ca.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/6a0d7ca8b85a44f67b9e145654bdb29f.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/6b32a93398eaa44ebd61633a19c6cf91.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/c70bf2473f526d1f8e398a9a22e11327.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/f98dfb81a02059e18531b262bbc1fdcd.unity3d
