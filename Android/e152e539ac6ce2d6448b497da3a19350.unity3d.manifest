@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3730006141
+CRC: 1254840212
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36ecea2448a8ea8268963780cf2fb84c
+    Hash: 032e0ac7a430611dd173aacf4dd38216
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8a027126e26b94c0dfb3f743aa8e60c7
@@ -34,6 +34,8 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.UI
