@@ -6,7 +6,7 @@ Hashes:
     Hash: cc6c708d2688e86102c270a6adccc3db
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1dc285f1d7a6dfca4b443ac7b5d3dfef
+    Hash: 309825da5a849c4e3ba2756b42e3978a
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: cc6c708d2688e86102c270a6adccc3db
@@ -17,6 +17,8 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
@@ -25,11 +27,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
@@ -76,17 +76,17 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Union/UIUnionKeJiLearn.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/113f99598e418e3618f7c0d62066fb82.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/160a3c949daff9644bb4cce6192b79a6.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/37c69053e823b75820803951b8f78aa1.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/442f9224ada5d96d6abe2c927f992367.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/66f2251e863661a8ae420a57ffc2bcd8.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/716a608155fbb5fbddf4fef4d2d5e97d.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/9ffc8462c60b8d78364e6802e6d031c7.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/a1fb55e89335399c761344e4b009d101.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/bf5c33791e33242c5603a6c590c7fa5f.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/c164012b8b9cb72a1b2eaf68403678c4.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/ec6bc52bd2ed3d5a058a5e3b6000742b.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/113f99598e418e3618f7c0d62066fb82.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/160a3c949daff9644bb4cce6192b79a6.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/37c69053e823b75820803951b8f78aa1.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/442f9224ada5d96d6abe2c927f992367.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/66f2251e863661a8ae420a57ffc2bcd8.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/716a608155fbb5fbddf4fef4d2d5e97d.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/9ffc8462c60b8d78364e6802e6d031c7.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/a1fb55e89335399c761344e4b009d101.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/bf5c33791e33242c5603a6c590c7fa5f.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/c164012b8b9cb72a1b2eaf68403678c4.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/ec6bc52bd2ed3d5a058a5e3b6000742b.unity3d

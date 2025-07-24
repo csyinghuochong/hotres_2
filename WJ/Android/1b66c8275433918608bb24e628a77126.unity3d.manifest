@@ -6,7 +6,7 @@ Hashes:
     Hash: d61c1cb98b36cfe5a1b8509b77e2307d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1f6bc890b2d5c8e075239948cece827a
+    Hash: 6b17d102323127001c6c78a25dee9acf
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: d61c1cb98b36cfe5a1b8509b77e2307d
@@ -17,9 +17,9 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -58,7 +58,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Recharge/UIRechargeItem.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/3b354936a9ac617920cea1145f77f1b7.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/7f462a18d1b752e63c70629d077008ef.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/c7381305f1790e60a8edbd24394888ec.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/3b354936a9ac617920cea1145f77f1b7.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/7f462a18d1b752e63c70629d077008ef.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/c7381305f1790e60a8edbd24394888ec.unity3d

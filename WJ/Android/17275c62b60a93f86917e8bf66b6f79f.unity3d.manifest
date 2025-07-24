@@ -6,7 +6,7 @@ Hashes:
     Hash: 7531d549090340462648e398df38c7b6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f5cb2118769551bb97a1d408297ec346
+    Hash: c5841be5f6e0bf80a76712f11c5c139f
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 7531d549090340462648e398df38c7b6
@@ -19,6 +19,8 @@ ClassTypes:
 - Class: 84
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
@@ -28,8 +30,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -76,8 +76,8 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Fashion/UIFashionSuit.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/231b7726f4170e31764ad2f482ce25f1.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/7f462a18d1b752e63c70629d077008ef.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/a870898c64d32e07172b96c20a5f4543.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/cf8c5f43a507552f9219ae405fa8baa3.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/231b7726f4170e31764ad2f482ce25f1.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/7f462a18d1b752e63c70629d077008ef.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/a870898c64d32e07172b96c20a5f4543.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/cf8c5f43a507552f9219ae405fa8baa3.unity3d

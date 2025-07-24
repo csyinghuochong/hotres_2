@@ -6,7 +6,7 @@ Hashes:
     Hash: 4645bd01d7a9fafb7dc0e18627382a2d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1f6bc890b2d5c8e075239948cece827a
+    Hash: 6b17d102323127001c6c78a25dee9acf
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 4645bd01d7a9fafb7dc0e18627382a2d
@@ -17,9 +17,9 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -58,9 +58,9 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Donation/UIDonationUnion.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/4513ef296cbbf14974469edc9e00c103.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/ad95c8537a3d6992701f22d140e7f3ad.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/e859c443da163c61ec58bbe8914b7ae9.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4513ef296cbbf14974469edc9e00c103.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/ad95c8537a3d6992701f22d140e7f3ad.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/e859c443da163c61ec58bbe8914b7ae9.unity3d

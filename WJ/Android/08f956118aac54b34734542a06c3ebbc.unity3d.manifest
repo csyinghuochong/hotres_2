@@ -6,7 +6,7 @@ Hashes:
     Hash: afc64e3324bb5b7964a0e926fd682cf7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 323d0da6ddd4bfc439384d200a38ffd0
+    Hash: d3b10cd3dff79ed85ae1888c170d2ff0
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: afc64e3324bb5b7964a0e926fd682cf7
@@ -21,9 +21,9 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -72,9 +72,9 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/PetEgg/UIPetEggDuiHuan.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/254690b6326e19782f6b47056188bbfa.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/4627121ad72acd24bf042550f2ee404f.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/f92120dda9b8ef7560be280b5e1396ca.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/254690b6326e19782f6b47056188bbfa.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4627121ad72acd24bf042550f2ee404f.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/f92120dda9b8ef7560be280b5e1396ca.unity3d

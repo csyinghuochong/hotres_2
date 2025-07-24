@@ -6,7 +6,7 @@ Hashes:
     Hash: 7997516b3de0aea38f4bc1e5f00d2734
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 439b5b3dfcd730ac1e660bf1c69f9136
+    Hash: 67e70e36b5c5e49d0b3e8e042817ad9d
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 7997516b3de0aea38f4bc1e5f00d2734
@@ -15,9 +15,9 @@ ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -56,9 +56,9 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UISpiritTypeItem.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/300a207faed8f7b216aae3e3e4306913.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/300df170e57910bf18b2e0932c636a58.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/7bf40320d53e61553a02a58087b85ebd.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/dc077d15abbe577ee90a39c25a1e40cd.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/300a207faed8f7b216aae3e3e4306913.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/300df170e57910bf18b2e0932c636a58.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/7bf40320d53e61553a02a58087b85ebd.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/dc077d15abbe577ee90a39c25a1e40cd.unity3d

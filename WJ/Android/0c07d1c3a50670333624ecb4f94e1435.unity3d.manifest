@@ -6,7 +6,7 @@ Hashes:
     Hash: aaa9771378d88421340543c1058cc953
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 004ca14ea3d74ba67f9b88d04a19fd55
+    Hash: 5dba41e9aa0babd764574ad078618848
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: aaa9771378d88421340543c1058cc953
@@ -17,9 +17,9 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -60,7 +60,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Dungeon/UIDungeonItem.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/254690b6326e19782f6b47056188bbfa.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/26235162903ae7c754a6e36140a74a24.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5220cb2d7f740ddb05115fa8ae2b2c7c.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/254690b6326e19782f6b47056188bbfa.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/26235162903ae7c754a6e36140a74a24.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5220cb2d7f740ddb05115fa8ae2b2c7c.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d

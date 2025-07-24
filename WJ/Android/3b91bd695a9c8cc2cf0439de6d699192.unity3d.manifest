@@ -1,21 +1,23 @@
 ManifestFileVersion: 0
-CRC: 3843294813
+CRC: 2479472963
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c22df48ab73b4a941bdb9120af2e6832
+    Hash: a410102daf6b2359d7b09a08b049abeb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 60b940967811403e2a9a60423dc12186
+    Hash: dd059d3964e6488dd612ee62019e84ee
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c22df48ab73b4a941bdb9120af2e6832
+    Hash: a410102daf6b2359d7b09a08b049abeb
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
@@ -24,8 +26,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -70,17 +70,17 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Season/UISeasonHome.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/004eb541b328cfbc78626bec513d9e01.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/07443da5060df957a13d0bf754161a92.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/0ae43d3e675a3134f1c24b56053098cf.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/32dc36e5e66a3560a21175edceae8948.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/4513ef296cbbf14974469edc9e00c103.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5eaf3e4376a3e7769c55f454781bd675.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/9d3b05ea1481c26eb2df0f700f3f8485.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/9f4b84031ece4f039df50511db9671b9.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/aef281ffcc8f78ab73499eefe549b5ef.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/d29c07a21113dd6300e9413a5dea34ff.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/e859c443da163c61ec58bbe8914b7ae9.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/ec6bc52bd2ed3d5a058a5e3b6000742b.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/004eb541b328cfbc78626bec513d9e01.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/07443da5060df957a13d0bf754161a92.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/0ae43d3e675a3134f1c24b56053098cf.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/32dc36e5e66a3560a21175edceae8948.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4513ef296cbbf14974469edc9e00c103.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5eaf3e4376a3e7769c55f454781bd675.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/9d3b05ea1481c26eb2df0f700f3f8485.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/9f4b84031ece4f039df50511db9671b9.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/aef281ffcc8f78ab73499eefe549b5ef.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/d29c07a21113dd6300e9413a5dea34ff.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/e859c443da163c61ec58bbe8914b7ae9.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/ec6bc52bd2ed3d5a058a5e3b6000742b.unity3d
