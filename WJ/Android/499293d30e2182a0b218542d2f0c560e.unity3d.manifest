@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1183035056
+CRC: 3845255932
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 25608e71f1a84b8fceafa2aed0f83bd6
+    Hash: d57f08c073b953260cd796051ed6d165
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 25608e71f1a84b8fceafa2aed0f83bd6
+    Hash: d57f08c073b953260cd796051ed6d165
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -18,6 +18,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Bundles/Icon/PlayerIcon/5.png
 - Assets/Bundles/Icon/PlayerIcon/3.png
 - Assets/Bundles/Icon/PlayerIcon/4.png
 - Assets/Bundles/Icon/PlayerIcon/1.png
