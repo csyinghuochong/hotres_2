@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2192648101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b8d2e21e75d7e4f37d6e4e1b83df6ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7dd29e6367832b7c8576c2e2338d2362
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5b8d2e21e75d7e4f37d6e4e1b83df6ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/5/Hero_lian.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/0458fc11ee74a17380284b0c46fbc14a.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/5231d2c9c63e2fce9aca92e9cb9e2577.unity3d
