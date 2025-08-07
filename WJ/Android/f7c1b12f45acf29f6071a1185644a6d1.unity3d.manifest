@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2884233427
+CRC: 2729899938
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a5ecebaddd7189211496e29c3fca24f5
+    Hash: 363501002e4e117c086d70d7c042cbe9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a5ecebaddd7189211496e29c3fca24f5
+    Hash: 363501002e4e117c086d70d7c042cbe9
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -23,6 +23,7 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/b101.png
 - Assets/Bundles/Icon/RoleSkillIcon/64015401.png
 - Assets/Bundles/Icon/RoleSkillIcon/40032.png
+- Assets/Bundles/Icon/RoleSkillIcon/65011201.png
 - Assets/Bundles/Icon/RoleSkillIcon/30013.png
 - Assets/Bundles/Icon/RoleSkillIcon/61011301.png
 - Assets/Bundles/Icon/RoleSkillIcon/30003.png
@@ -62,6 +63,7 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/63023201.png
 - Assets/Bundles/Icon/RoleSkillIcon/63023401.png
 - Assets/Bundles/Icon/RoleSkillIcon/30022.png
+- Assets/Bundles/Icon/RoleSkillIcon/65012201.png
 - Assets/Bundles/Icon/RoleSkillIcon/69060400.png
 - Assets/Bundles/Icon/RoleSkillIcon/60090001.png
 - Assets/Bundles/Icon/RoleSkillIcon/10021.png
@@ -94,6 +96,7 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/60010801.png
 - Assets/Bundles/Icon/RoleSkillIcon/61012301.png
 - Assets/Bundles/Icon/RoleSkillIcon/63023101.png
+- Assets/Bundles/Icon/RoleSkillIcon/65012301.png
 - Assets/Bundles/Icon/RoleSkillIcon/61022101.png
 - Assets/Bundles/Icon/RoleSkillIcon/60011400.png
 - Assets/Bundles/Icon/RoleSkillIcon/40031.png
@@ -237,10 +240,12 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/63002002.png
 - Assets/Bundles/Icon/RoleSkillIcon/64013101.png
 - Assets/Bundles/Icon/RoleSkillIcon/68000007.png
+- Assets/Bundles/Icon/RoleSkillIcon/65011301.png
 - Assets/Bundles/Icon/RoleSkillIcon/jx5.png
 - Assets/Bundles/Icon/RoleSkillIcon/60011001.png
 - Assets/Bundles/Icon/RoleSkillIcon/60040203.png
 - Assets/Bundles/Icon/RoleSkillIcon/66001005.png
+- Assets/Bundles/Icon/RoleSkillIcon/65012101.png
 - Assets/Bundles/Icon/RoleSkillIcon/68000113.png
 - Assets/Bundles/Icon/RoleSkillIcon/60030102.png
 - Assets/Bundles/Icon/RoleSkillIcon/60031003.png
@@ -271,6 +276,7 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/60031161.png
 - Assets/Bundles/Icon/RoleSkillIcon/60030106.png
 - Assets/Bundles/Icon/RoleSkillIcon/60010600.png
+- Assets/Bundles/Icon/RoleSkillIcon/65011101.png
 - Assets/Bundles/Icon/RoleSkillIcon/68000010.png
 - Assets/Bundles/Icon/RoleSkillIcon/68000101.png
 - Assets/Bundles/Icon/RoleSkillIcon/30043.png
