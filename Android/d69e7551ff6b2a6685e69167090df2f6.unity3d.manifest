@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2029928914
+CRC: 1257224746
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6407299e0a06c4f4fcf78ceee0489c36
+    Hash: a42ebb49693dce2e5d7560e7445be3c9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7183193a330b84d5df9f0e83e865cdb0
+    Hash: 3d7aca698140f2896b307b2632570435
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -16,11 +16,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3965ae1cd39e8e0419a651702900e377, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 114
@@ -40,6 +44,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: ReferenceCollectorData
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.FontData
 - AssemblyName: UnityEngine.UI

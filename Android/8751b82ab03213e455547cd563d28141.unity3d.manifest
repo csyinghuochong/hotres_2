@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4013188099
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57e8f4eb971485541c3c72fc07c0bf2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25008239ff4fccd125e1f90e3cfab894
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Parts/5/Hero_lian.prefab
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0458fc11ee74a17380284b0c46fbc14a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5231d2c9c63e2fce9aca92e9cb9e2577.unity3d
