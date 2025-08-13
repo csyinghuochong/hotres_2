@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-07-29-1181",
+    "PackageVersion": "2025-08-13-1180",
     "AssetList": [
         {
             "Address": "",
@@ -33263,9 +33263,9 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "FileHash": "8175e16c0e3378342145ee64bc9d6602",
-            "FileCRC": "f1f21ec3",
-            "FileSize": 6455844,
+            "FileHash": "c3a6d3881d6b4c8794656198e7e92ae8",
+            "FileCRC": "4cbf1705",
+            "FileSize": 6457444,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -33273,9 +33273,9 @@
         },
         {
             "BundleName": "assets_bundles_config.bundle",
-            "FileHash": "94e6507f93233e4d4f212a7175428dd9",
-            "FileCRC": "b36cc44d",
-            "FileSize": 826522,
+            "FileHash": "dcb1eb62b5f66a59b4e72bded8fe7e18",
+            "FileCRC": "3a618cd4",
+            "FileSize": 826024,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -34163,9 +34163,9 @@
         },
         {
             "BundleName": "assets_bundles_ui_common_es_paimaisell.bundle",
-            "FileHash": "97bea658395e87b3841ed7a0a548e206",
-            "FileCRC": "8cd73762",
-            "FileSize": 13601,
+            "FileHash": "c1b4b6963bd0b7ebd9a9a9dd717fa79b",
+            "FileCRC": "4bcef388",
+            "FileSize": 13598,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
