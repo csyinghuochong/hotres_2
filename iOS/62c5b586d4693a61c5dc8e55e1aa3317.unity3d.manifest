@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2114999906
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97952abe68138c35121f896c4d6895bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/drop_stretched03.png
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1790225763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76511d868693e1438b7e0cf01ffa0fc6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Mon_Dujiaoshou_Atk_Q/daoguang01.anim
+Dependencies: []

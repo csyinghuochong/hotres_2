@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2927015914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7489c33d622748fda769bcf5472a78c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/guangquanHYT4.tga
+Dependencies: []

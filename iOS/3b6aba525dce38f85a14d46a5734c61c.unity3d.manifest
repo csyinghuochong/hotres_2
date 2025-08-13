@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 677642804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66ed0864a20c7d595e957bac45e2947f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/electric_vertical01.png
+Dependencies: []

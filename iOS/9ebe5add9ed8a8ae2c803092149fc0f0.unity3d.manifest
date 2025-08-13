@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2978491148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9c162610eab5eb86ca80d8dbe7ebd57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Moon/E3D-Moon54-bh4.png
+Dependencies: []
