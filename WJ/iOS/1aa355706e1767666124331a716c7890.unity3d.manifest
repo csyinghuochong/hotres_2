@@ -3,13 +3,13 @@ CRC: 2793151778
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 49ed91c9215b2168ea7ed100af54ea23
+    Hash: 0c575bd4a19f06b66d38fce233d964c7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0df1dec30b5d061d422d3e6493d27647
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 49ed91c9215b2168ea7ed100af54ea23
+    Hash: 0c575bd4a19f06b66d38fce233d964c7
 HashAppended: 0
 ClassTypes:
 - Class: 48
@@ -36,10 +36,10 @@ Assets:
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-DetachAlpha.shader
 - Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonBasicOutline.shader
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Shaders/Blend_TwoSides.shader
-- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Shaders/AdditiveMobile_Scroll01.shader
 - Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-HardEdge-Opaque.shader
-- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C1-Add.shader
 - Assets/Res/Effect/SkillZhiShi/Effect/Shader/Particle Alpha Blend1.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C1-Add.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Shaders/AdditiveMobile_Scroll01.shader
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-AddSmooth-DetachAlpha-Top.shader
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/JR1/Effects/Shaders/E/E3D/E3D_EF_31_ADD_Top.shader
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-Top.shader
