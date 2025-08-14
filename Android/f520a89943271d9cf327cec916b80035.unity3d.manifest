@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 84340745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1efec92c3fc3e2636d774c961405763
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Textures/TX_fangsheguang_00174_A.tga
+Dependencies: []

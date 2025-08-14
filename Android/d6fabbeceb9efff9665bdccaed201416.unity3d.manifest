@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1588831270
+CRC: 2977508948
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bc4db185d018b6f6e98bf4b27721f45c
+    Hash: e4d4cc9c840d0a0c659d22fe79ab7117
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Loop4-40.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/89ad4f88cb7c3e7b5ac3295d476179f0.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/89ad4f88cb7c3e7b5ac3295d476179f0.unity3d

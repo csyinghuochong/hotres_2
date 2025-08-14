@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1870389284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12f2327c05e5e2788fb49fd1b70bba2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/BH/Effect/Animations/E3D-Skill-Blade-Orange.controller
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1b115d25f2bdf913972f6c7186dcbb56.unity3d

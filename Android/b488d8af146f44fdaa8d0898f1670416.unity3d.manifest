@@ -3,7 +3,7 @@ CRC: 517248055
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 17aa8a8758fc84d0b4bb73018e43a767
+    Hash: cc9784a7bc1a324fb45f08fe33a11d07
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Point118.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/d069f6b10aa4ab865a4b82ae120ffb90.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/d069f6b10aa4ab865a4b82ae120ffb90.unity3d

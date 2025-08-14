@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1427200623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dbf2e73e6200d8b7052dd5fa2aef1a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Materials/TX_fangsheguang_00174_3.mat
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/f520a89943271d9cf327cec916b80035.unity3d

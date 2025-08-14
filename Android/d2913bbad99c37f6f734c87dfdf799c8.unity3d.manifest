@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1202388251
+CRC: 1891526802
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3a1f6f09a49f9396491133c2e013f0f6
+    Hash: b7947c380846d428de8a7535c8ce3650
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 25b47242b5f9b668ed1cc335bd7877ae
+    Hash: fa1743f34f1cb632102f9082acddfb74
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -14,8 +14,6 @@ ClassTypes:
 - Class: 4
   Script: {instanceID: 0}
 - Class: 21
-  Script: {instanceID: 0}
-- Class: 28
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
@@ -30,9 +28,17 @@ Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_56.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/27245e712c76543f8c190183963f61ad.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/318d5c20e443746c9f0081820cfa5f7d.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/380fd3a465e04dec70e9788c74f82d78.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/38af00cfd40a329ee394e746c7db8573.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/3b6aba525dce38f85a14d46a5734c61c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4361448d409a827ab982b4d840c0726d.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4c77a531096a993b68ee6511d78bc7d9.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/60fe7bab4947c911a7e59b0e92fcb49a.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/620d36cc5f38b586c4fc7e6bde3f447d.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/62c5b586d4693a61c5dc8e55e1aa3317.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/8c55e6d30890f71e57951893aaffa2a9.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/954f424c0555c41047e17090fd057e29.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a0dbbbd389dd8f92c6ff6eb24a741c68.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a228f8f37fc5292bdbcb2adf992eeabe.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/aa69ec02095364f77c11c0a95dddce0e.unity3d

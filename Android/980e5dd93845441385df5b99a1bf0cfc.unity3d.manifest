@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1500925596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2997c8996e2acc508a57626ddf8399b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/ArtResource/ArtEffects/Animator/Mon_Dujiaoshou_Atk_Q/TX.controller
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4c734501d8fae35ee7fbbea406dfac2e.unity3d
