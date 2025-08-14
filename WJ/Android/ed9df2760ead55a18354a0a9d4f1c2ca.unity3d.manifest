@@ -6,7 +6,7 @@ Hashes:
     Hash: cd07ee9f4a48ed10b7d6f2b40448ca82
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3745e8ee904ddd0f3761e0febac0ebe9
+    Hash: d0ed797fbd43cd0e885c8b87723f80c6
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: cd07ee9f4a48ed10b7d6f2b40448ca82
@@ -15,11 +15,11 @@ ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -40,5 +40,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Blood/UINpcLocal.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/4513ef296cbbf14974469edc9e00c103.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4513ef296cbbf14974469edc9e00c103.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d

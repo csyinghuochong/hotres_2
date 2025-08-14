@@ -6,7 +6,7 @@ Hashes:
     Hash: 96f3b830ae82b29703519e683e86067b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9c664e0343a28261c0491d89870e021e
+    Hash: 6475420ce1856b7953f1e1b7ab46ecd4
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 96f3b830ae82b29703519e683e86067b
@@ -17,13 +17,13 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 73cf11b44d5856c4893b03e391f9e047, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -48,4 +48,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Blood/UIStallIem.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d

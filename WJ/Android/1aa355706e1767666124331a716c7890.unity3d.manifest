@@ -3,13 +3,13 @@ CRC: 2668702348
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8acdf4ffb747360db8c4ef131b30008e
+    Hash: a2960e67bf9cff8a9586c7eee2a9b066
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0df1dec30b5d061d422d3e6493d27647
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8acdf4ffb747360db8c4ef131b30008e
+    Hash: a2960e67bf9cff8a9586c7eee2a9b066
 HashAppended: 0
 ClassTypes:
 - Class: 48
@@ -36,10 +36,10 @@ Assets:
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-DetachAlpha.shader
 - Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonBasicOutline.shader
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Shaders/Blend_TwoSides.shader
-- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Shaders/AdditiveMobile_Scroll01.shader
 - Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-HardEdge-Opaque.shader
-- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C1-Add.shader
 - Assets/Res/Effect/SkillZhiShi/Effect/Shader/Particle Alpha Blend1.shader
+- Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C1-Add.shader
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Shaders/AdditiveMobile_Scroll01.shader
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-AddSmooth-DetachAlpha-Top.shader
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/JR1/Effects/Shaders/E/E3D/E3D_EF_31_ADD_Top.shader
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-Top.shader
@@ -75,8 +75,8 @@ Assets:
 - Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/E3D-Effect-Shader/UV/E3DVFX-3T-UV-VC-Add.shader
 - Assets/Mono/GameDemo/OldResources/Water (Basic)/Sources/Shaders/FX-Water Simple.shader
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/351c5015b248c929352575691af33897.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/613311d53ab353c42b0d25e3b695cd1e.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/67e09de2cca9549e217fdd435873bf64.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/a5136d288de244948ea0a4bf8f918be4.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/ddb5a7d28c3dee34b832a6f0087d5d79.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/351c5015b248c929352575691af33897.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/613311d53ab353c42b0d25e3b695cd1e.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/67e09de2cca9549e217fdd435873bf64.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/a5136d288de244948ea0a4bf8f918be4.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/ddb5a7d28c3dee34b832a6f0087d5d79.unity3d
