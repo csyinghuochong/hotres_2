@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2337075025
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcd904ec97d46ac8ca93ef26437ae32d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Tentacle Monster/Controllers/Tentacle
+  Monster Controller.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/06e893d686b5207a3224a20cb0bc14f4.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/20653e91cb5ce684759b4d499d676888.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4154297e38b9ebee504123f4145c94ad.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/46c0320a09cb71dc912c32af330d7073.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8b17ad44f42adfe087b6085598e7c84a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c73bc1f501510d031aa6b732334f93f7.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f99e210442fcf96528c932a20957f419.unity3d

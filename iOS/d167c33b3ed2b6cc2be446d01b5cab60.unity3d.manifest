@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3732903161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46248e97e03f4b7894e91e5f2f2126a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Tentacle Monster/Textures/FX-Saliva.tga
+Dependencies: []
