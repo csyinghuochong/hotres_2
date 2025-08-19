@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2512487001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0cd60923b1caee072a27709ff63f5d5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0cd60923b1caee072a27709ff63f5d5f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Tentacle Monster/Materials/Tentacle Monster-Yellow.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b51883dd59508e46422ff2b9282c6eed.unity3d
