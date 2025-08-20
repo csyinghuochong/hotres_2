@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1937895516
+CRC: 374139605
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72e8eec1d26df1754e122e02931fedf1
+    Hash: 7c84cdce84601bd43e74cfd0bb72084e
   TypeTreeHash:
     serializedVersion: 2
     Hash: e17d37fe4ab8793134137cb121c444ed
@@ -44,8 +44,8 @@ Assets:
 - Assets/Bundles/Unit/Player/Hero_5.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0458fc11ee74a17380284b0c46fbc14a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/08fe0097f28966aee502e0d7402d381b.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5231d2c9c63e2fce9aca92e9cb9e2577.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/6d98b66c0849d225b4cd46a1a855481b.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7ca84aa87bf4f5ab6b8baea5940734e4.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/88e45ad6573477493e605b5493e176fc.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/985b9df7c70da377dcf292cc734a4421.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/b1a74dc6112326dc8de24dc2462570d5.unity3d

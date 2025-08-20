@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3409835143
+CRC: 2900256033
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b8e4f8a546c6b9001a398cfffaedcf80
+    Hash: b41c7739caee3492bb1bfca3b5da7a6d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,4 +19,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/MonsterModel/Monster/M20006/texture/M20006.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/fc189ec5683ed8b69414ec99f6a8ba53.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/fc189ec5683ed8b69414ec99f6a8ba53.unity3d

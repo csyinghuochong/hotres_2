@@ -3,7 +3,7 @@ CRC: 3118341422
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: efc6e5c05f2de864185aa014f5ceb8ae
+    Hash: cd3c17eea3fc08bb5d08b1ef14f40bb1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,5 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Loop4-36-2-HDR.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/5203f2fc1fcb529ab80fcce524c07a69.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5203f2fc1fcb529ab80fcce524c07a69.unity3d
