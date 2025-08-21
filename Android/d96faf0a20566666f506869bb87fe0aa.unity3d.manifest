@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 270788284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 690f6f4ced2f2943caa0f31a56b06eeb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Textures/Squares/Square02.PNG
+Dependencies: []
