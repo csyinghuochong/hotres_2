@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2031082827
+CRC: 850766880
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6284322fa5d2d03aa9fe53fd7d16510f
+    Hash: e7410144552c2451d6aef17176afe0d5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5e762ccb57c4caaabbb5a4199ac82c23
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6284322fa5d2d03aa9fe53fd7d16510f
+    Hash: e7410144552c2451d6aef17176afe0d5
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -18,6 +18,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Material/Unit_BumpDistort.mat
+- Assets/Bundles/Material/Custom_SimpleAlpha.mat
 Dependencies:
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d

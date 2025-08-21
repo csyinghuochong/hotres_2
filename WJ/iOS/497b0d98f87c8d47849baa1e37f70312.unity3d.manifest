@@ -1,20 +1,22 @@
 ManifestFileVersion: 0
-CRC: 411569010
+CRC: 4129904848
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72218f5f2a87e13416cdc6400b6c59a1
+    Hash: 7f0794ee4b050773b8d698daf9b420c8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 5e762ccb57c4caaabbb5a4199ac82c23
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 72218f5f2a87e13416cdc6400b6c59a1
+    Hash: 7f0794ee4b050773b8d698daf9b420c8
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/SkillBuffConfigCategory.bytes
+- Assets/Bundles/Material/Custom_Ill_HighLight.mat
 Dependencies: []

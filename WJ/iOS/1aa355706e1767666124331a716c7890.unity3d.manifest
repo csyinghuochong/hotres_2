@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2793151778
+CRC: 3287717140
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c575bd4a19f06b66d38fce233d964c7
+    Hash: ecc0d46f92359dd0597a671a77cd2688
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0df1dec30b5d061d422d3e6493d27647
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0c575bd4a19f06b66d38fce233d964c7
+    Hash: ecc0d46f92359dd0597a671a77cd2688
 HashAppended: 0
 ClassTypes:
 - Class: 48
@@ -49,14 +49,15 @@ Assets:
 - Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonBasic.shader
 - Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
   Ice Vol.1/Shaders/ParticleCook-Transparent-Additive-Diffuse.shader
-- Assets/Mono/GameDemo/ArtResource/Shaders/Mobile-Particle-Alpha-DetachAlpha-Top.shader
 - Assets/Res/Shader/SimpleAlpha.shader
+- Assets/Mono/GameDemo/ArtResource/Shaders/Mobile-Particle-Alpha-DetachAlpha-Top.shader
 - Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3D-distortion.shader
 - Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonLitOutline.shader
 - Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Slash.shader
 - Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonLit.shader
 - Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-Mask2.shader
 - Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-HardEdge.shader
+- Assets/Res/Shader/Outline.shader
 - Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Blend_CenterGlow.shader
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/JR1/Effects/Shaders/Builtin/Particle
   Add.shader
@@ -65,6 +66,7 @@ Assets:
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Shaders/Lit_CenterGlow.shader
 - Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/E3D-Effect-Shader/AirDistort/E3D-AirDistort-Noise-Mask.shader
 - Assets/Mono/GameDemo/OldResources/Shaders/AlphaTest-Diffuse-DetachAlpha-Top.shader
+- Assets/Res/Effect/EffectsSharde/GlassRefraction/Shaders/GlassStainedBumpDistort.shader
 - Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-Tex-WithAlpha.shader
 - Assets/T4M/Shaders/ShaderModel2/Diffuse/T4M 4 Textures.shader
 - Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/E3D-Effect-Shader/AirDistort/E3D-AirDistort-AutoNoise-Mask.shader
