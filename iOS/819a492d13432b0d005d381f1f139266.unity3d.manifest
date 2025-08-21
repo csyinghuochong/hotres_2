@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 263649681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 563a5b95f734da14e105e7aae32b4dba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cd2513c8c6d5444c7bda9f83530f436e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Model-E3D/E3D-Curve-Surround45-bh11.FBX
+Dependencies: []

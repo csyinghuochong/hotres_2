@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 93799451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b898055257781d6bd6235dfa142dac4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Materials-E3D/E3D-Object-Loop4-Object.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3644e57404b81d6942cc49784d22caf0.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/a0871843da284ce48dc7b9d189e64ae5.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/d1c64f2dba7cdd152ef43b6ab625f743.unity3d
