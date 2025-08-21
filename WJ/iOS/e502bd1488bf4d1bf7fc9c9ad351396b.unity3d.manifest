@@ -1,20 +1,20 @@
 ManifestFileVersion: 0
-CRC: 4048612331
+CRC: 3421742171
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b2dec00dfda0cab889abf98f5a91607
+    Hash: f50fce63a172e70a41366cb51a3e2862
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 2612ac43db082a73502ee80f2eceb73f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6b2dec00dfda0cab889abf98f5a91607
+    Hash: f50fce63a172e70a41366cb51a3e2862
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/EffectConfigCategory.bytes
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Textures-E3D/E3D-Object73.png
 Dependencies: []

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 537530615
+CRC: 73129393
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5797c307bb9257b86ce326b6b7453eb4
+    Hash: 8560e221fc4fce9519a33b97a4c59514
   TypeTreeHash:
     serializedVersion: 2
     Hash: 19c223e2030090f9f5f2c3c1809c316d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5797c307bb9257b86ce326b6b7453eb4
+    Hash: 8560e221fc4fce9519a33b97a4c59514
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,7 +36,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Effect/SkillEffect/Eff_Skill_XuanFeng.prefab
+- Assets/Bundles/Effect/SkillEffect/Eff_Skill_XuanFeng_2.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/018c521d46b737b7dbfd2cc737b83262.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/0c3643c55345db3002869d12ac89cf0d.unity3d

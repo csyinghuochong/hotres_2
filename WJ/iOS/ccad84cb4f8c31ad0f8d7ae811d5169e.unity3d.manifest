@@ -1,20 +1,20 @@
 ManifestFileVersion: 0
-CRC: 4048612331
+CRC: 1722281852
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6b2dec00dfda0cab889abf98f5a91607
+    Hash: a8dbd77486fcb045d42c02a801158ff0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 2612ac43db082a73502ee80f2eceb73f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6b2dec00dfda0cab889abf98f5a91607
+    Hash: a8dbd77486fcb045d42c02a801158ff0
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/EffectConfigCategory.bytes
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Textures-E3D/Sequence/E3D-Sequence130.png
 Dependencies: []
