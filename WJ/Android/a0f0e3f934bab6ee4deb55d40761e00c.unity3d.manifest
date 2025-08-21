@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 434676156
+CRC: 3613417477
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2474d8fced7da9195d7415720851aa6d
+    Hash: 6d9d88e166c2869dfcda61b4b252c7b2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5e762ccb57c4caaabbb5a4199ac82c23
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2474d8fced7da9195d7415720851aa6d
+    Hash: 6d9d88e166c2869dfcda61b4b252c7b2
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -19,4 +19,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Material/Unit_Outline.mat
-Dependencies: []
+Dependencies:
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/1aa355706e1767666124331a716c7890.unity3d

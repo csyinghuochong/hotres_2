@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2002052167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2056af4bed7dba631bb92ef3556a732
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 147058da82bee871bbce28e472030442
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e2056af4bed7dba631bb92ef3556a732
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/BH/Effect/Animations/E3D-Skill-Continuous-Orange1.controller
+Dependencies:
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/36a5e0471b643788407c8384472a4748.unity3d
