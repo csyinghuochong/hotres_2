@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2184809823
+CRC: 4201877861
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4fddc28f8346c108ef5051eabb14b9e2
+    Hash: 7c20fd8a774394541664048c137717fb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5651999fa58938ac55fc849c3d2539bc
@@ -15,6 +15,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Material/Unit_Outline.mat
-Dependencies:
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- Assets/Bundles/Material/Custom_Ill_HighLight.mat
+Dependencies: []

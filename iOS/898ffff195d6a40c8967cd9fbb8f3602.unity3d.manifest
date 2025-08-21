@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 946286228
+CRC: 99937684
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e19bd81d0b6f8b84c4d4fad5e188564b
+    Hash: 309840aeba4a4a33b099fe3278693261
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5651999fa58938ac55fc849c3d2539bc
@@ -16,4 +16,5 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Material/Unit_BumpDistort.mat
-Dependencies: []
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d

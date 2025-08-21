@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 527234917
+CRC: 1364050952
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10f82a11f259fc759c541504b84674ab
+    Hash: f1ebaa8cbe20a337d8a5725758f17bd8
   TypeTreeHash:
     serializedVersion: 2
     Hash: c33d3594fb840798e3bd468c6c9d34d3
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/B1/Effect/Animations/E3D-Skill-Direct-Front-Blue1.anim
+- Assets/Mono/GameDemo/Editor Default Resources/Effect/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Animations/TrailsSpirtalV1.anim
 Dependencies: []

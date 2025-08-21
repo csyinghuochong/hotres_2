@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2184809823
+CRC: 2533429482
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4fddc28f8346c108ef5051eabb14b9e2
+    Hash: b8c8002c89c222d71ebc4ac23c21b87b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5651999fa58938ac55fc849c3d2539bc
@@ -15,6 +15,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Material/Unit_Outline.mat
+- Assets/Bundles/Material/Custom_SimpleAlpha.mat
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
