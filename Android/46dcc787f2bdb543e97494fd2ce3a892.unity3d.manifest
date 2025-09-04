@@ -1,17 +1,18 @@
 ManifestFileVersion: 0
-CRC: 518415955
+CRC: 472213353
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af72d1c897b3f3bfd23f59468791f1e5
+    Hash: 3c4803c127cfa5fbc544a7da80e5e105
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: ff414f606ea1972259b080d7bcf51689
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/OccupationTwoConfigCategory.bytes
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/tex/effect_wenli_178_img
+  1_1_256.png
 Dependencies: []
