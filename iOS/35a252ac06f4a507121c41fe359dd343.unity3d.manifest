@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2158747752
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47d63348acd99d838ca75ac6ed902e0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/Materials-E3D/E3D-Sequence132.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/eef73fcae75622d152e5be56f3b82861.unity3d

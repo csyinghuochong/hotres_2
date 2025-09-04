@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1240347338
+CRC: 3640118648
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: afbc29f8654e740f23cbba504521b08b
+    Hash: b7e794b9fcce38cfc9e90a83564ea7cc
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: ff414f606ea1972259b080d7bcf51689
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/OccupationTwoConfigCategory.bytes
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/tex/104030_zhs_npc_d_51201.png
 Dependencies: []
