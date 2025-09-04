@@ -1,20 +1,22 @@
 ManifestFileVersion: 0
-CRC: 227642423
+CRC: 760898791
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 481cb3715785218b2b55d11b8a3999df
+    Hash: 9ae97e317eb6b20b948b0df2fd749142
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 481cb3715785218b2b55d11b8a3999df
+    Hash: 9ae97e317eb6b20b948b0df2fd749142
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/MonsterConfigCategory.bytes
+- Assets/Res/Effect/EffectResList/Lana Studio/Casual RPG VFX/Textures/t_trail04.png
 Dependencies: []

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3911833655
+CRC: 1644201561
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0fa8456911d422d05b49059c4b860d48
+    Hash: e858ba48880d1823f14e3351553f3ec0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0fa8456911d422d05b49059c4b860d48
+    Hash: e858ba48880d1823f14e3351553f3ec0
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -99,6 +99,7 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/60030101.png
 - Assets/Bundles/Icon/RoleSkillIcon/60031181.png
 - Assets/Bundles/Icon/RoleSkillIcon/66001017.png
+- Assets/Bundles/Icon/RoleSkillIcon/60031251.png
 - Assets/Bundles/Icon/RoleSkillIcon/30053.png
 - Assets/Bundles/Icon/RoleSkillIcon/10013.png
 - Assets/Bundles/Icon/RoleSkillIcon/65022201.png
@@ -258,6 +259,7 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/b401.png
 - Assets/Bundles/Icon/RoleSkillIcon/30061.png
 - Assets/Bundles/Icon/RoleSkillIcon/60030107.png
+- Assets/Bundles/Icon/RoleSkillIcon/60031231.png
 - Assets/Bundles/Icon/RoleSkillIcon/62000104.png
 - Assets/Bundles/Icon/RoleSkillIcon/10063.png
 - Assets/Bundles/Icon/RoleSkillIcon/99001011.png
@@ -309,8 +311,9 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/62000107.png
 - Assets/Bundles/Icon/RoleSkillIcon/20062.png
 - Assets/Bundles/Icon/RoleSkillIcon/65022301.png
-- Assets/Bundles/Icon/RoleSkillIcon/68000101.png
+- Assets/Bundles/Icon/RoleSkillIcon/60031241.png
 - Assets/Bundles/Icon/RoleSkillIcon/61011201.png
+- Assets/Bundles/Icon/RoleSkillIcon/68000101.png
 - Assets/Bundles/Icon/RoleSkillIcon/64012201.png
 - Assets/Bundles/Icon/RoleSkillIcon/jx3.png
 - Assets/Bundles/Icon/RoleSkillIcon/60093002.png
