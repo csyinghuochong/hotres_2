@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 984899782
+CRC: 3788275806
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7bb8b303d5fae6a56e6ff206102b67e2
+    Hash: 71644f964d483cae7b06c1a3fa7ed327
   TypeTreeHash:
     serializedVersion: 2
     Hash: b5049090db88c78e63348d70130c6769
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7bb8b303d5fae6a56e6ff206102b67e2
+    Hash: 71644f964d483cae7b06c1a3fa7ed327
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -52,5 +52,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Blood/UIUnitHp.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4c1fd29731397b71c84fc1618725e8f3.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
