@@ -1,15 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3142243942
+CRC: 1875642323
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3820619171ac0679dc175e49025faafc
+    Hash: bf1a1e9f6300f81941d4fe6e11189339
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0dcb8e2481c06c3080459cd852e51126
+    Hash: 3798805230f6c6a28c93a1b0c32ae3bf
 HashAppended: 0
 ClassTypes:
 - Class: 1
+  Script: {instanceID: 0}
+- Class: 28
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -57,6 +59,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/FenXiang/UIQQAddSet.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/07443da5060df957a13d0bf754161a92.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/72d356d87a42f472edab8b62a9f85f9c.unity3d
