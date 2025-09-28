@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 925079891
+CRC: 1422989676
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d91a236c34a6499d71baeb5d4211bf98
+    Hash: 49333711af21415ac8732b9bddf08366
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -62,6 +62,7 @@ Assets:
 - Assets/Bundles/Icon/OtherIcon/Img_21.png
 - Assets/Bundles/Icon/OtherIcon/qianghua_1.png
 - Assets/Bundles/Icon/OtherIcon/Img_hole_105.png
+- Assets/Bundles/Icon/OtherIcon/Img_41_uiguide.png
 - Assets/Bundles/Icon/OtherIcon/Occ_2.png
 - Assets/Bundles/Icon/OtherIcon/Img_22_EN.png
 - Assets/Bundles/Icon/OtherIcon/hexin2.png
