@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1755968105
+CRC: 3349998724
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 24caffa70cfeda4a04756523da8c0c89
+    Hash: b75bc34f3f0c23eb0d37f2c315ff1439
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1913ec5d2553d2dd8d0505bcd7766cb1
@@ -48,3 +48,5 @@ Assets:
 - Assets/Bundles/UI/Blood/UIMonsterHp.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/993936939de4747b6b0ed40584be7a55.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/caf55d071646e82a4ce3831d4de5e326.unity3d
