@@ -3,13 +3,13 @@ CRC: 2440629831
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0515235a1ea7effd43f0f9df5549ef86
+    Hash: 6443a5732e9830aecc451fa69efbfeea
   TypeTreeHash:
     serializedVersion: 2
     Hash: c2f8eac2440cc6de26de22104b11921a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0515235a1ea7effd43f0f9df5549ef86
+    Hash: 6443a5732e9830aecc451fa69efbfeea
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,6 +36,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/Effect/UIEffect/Effect_ShanShuo.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/60ba88743078bd94d11dfc31789a222d.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/899d7e36544cb02346615604644d7e0a.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/60ba88743078bd94d11dfc31789a222d.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/899d7e36544cb02346615604644d7e0a.unity3d

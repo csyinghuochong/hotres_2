@@ -1,20 +1,24 @@
 ManifestFileVersion: 0
-CRC: 3429517455
+CRC: 2081548220
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2ded007bc22f6a3bc65ec9eb6c55085
+    Hash: eb52d528263b31ef7d9350c3489bac9c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 01e75516d1c444cac0ff23c2759d1469
+    Hash: cddd30a61e08c1ba0086704043e20684
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c2ded007bc22f6a3bc65ec9eb6c55085
+    Hash: eb52d528263b31ef7d9350c3489bac9c
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
@@ -55,11 +59,12 @@ Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UIChengJiuActivite.prefab
 Dependencies:
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/294a4fcaa369ea01d2671584eec3fd0c.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4c7a5da6f2726ccfe64b56e99acd4285.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/507c7475711d7d425c3dc3416908a178.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/60ba88743078bd94d11dfc31789a222d.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/66b79c41bb658dcd9b14278171ee0bbb.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/c5cfd7a9fd0d2fbf18ff722731cea454.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/d40db5265fd16daa59f03ea45514bf97.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/ebf2ba71d6daffbbb448707ac1ee11d8.unity3d

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3839991441
+CRC: 536564311
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1b6046bc554d105293e34d32b57195c6
+    Hash: e2a63c4564e565471de6431db486cb82
   TypeTreeHash:
     serializedVersion: 2
     Hash: b30fce1a9ad74efb72be6c308c56e365
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1b6046bc554d105293e34d32b57195c6
+    Hash: e2a63c4564e565471de6431db486cb82
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -22,5 +22,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Other/Texture/Materials/Crystal1.mat
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/32bffce44f8100c99af57380c554b323.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/32bffce44f8100c99af57380c554b323.unity3d

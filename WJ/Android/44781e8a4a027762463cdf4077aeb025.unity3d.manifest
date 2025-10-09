@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2276478382
+CRC: 2547966353
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ce3c0e598974f84eda5094cedac6f9f2
+    Hash: 4d09eb7e3613da1cc70d8f2437cbc6b3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: adbbc05773a0ca20eae492a5a00365fa
+    Hash: c6d051320e2e6e355cbdc3a3345aa55c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ce3c0e598974f84eda5094cedac6f9f2
+    Hash: 4d09eb7e3613da1cc70d8f2437cbc6b3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,11 +18,7 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 43
-  Script: {instanceID: 0}
-- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 338e9578d1797374b858ead231938d29, type: 3}
@@ -36,5 +32,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_ChestOpen.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/8c1741ae4da73d6768fd4c8248672456.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/cd254e319c64ff2dd64b468abbd9cd2c.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/8c1741ae4da73d6768fd4c8248672456.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/915ff8811ff818b34ff3b2c7212ff54d.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/cd254e319c64ff2dd64b468abbd9cd2c.unity3d
