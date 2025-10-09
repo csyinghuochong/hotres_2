@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2013183017
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab4ba5627e45278852720ffa6a48f555
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab4ba5627e45278852720ffa6a48f555
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Audio/Game/Run.mp3
+Dependencies: []
