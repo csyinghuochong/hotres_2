@@ -3,7 +3,7 @@ CRC: 3308926939
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a45a981edf78e8145b4e48f34474f74d
+    Hash: a3265fdea452d3c8d9a787eda91641bb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 18a24c3540a2efaa166a60b4dd4ca927
@@ -33,6 +33,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/Effect/UIEffect/Effect_ShanShuo.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/60ba88743078bd94d11dfc31789a222d.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/899d7e36544cb02346615604644d7e0a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/60ba88743078bd94d11dfc31789a222d.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/899d7e36544cb02346615604644d7e0a.unity3d

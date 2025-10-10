@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2703875205
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e66089811e0160345586d4a74c8d6429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/ARPG Effects/Textures/chestrays.png
+Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3187716180
+CRC: 379591333
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 819de0b153ab3e8fec051a054085d517
+    Hash: 9ebe45bd8c9ffa21755919ef903f8858
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1913ec5d2553d2dd8d0505bcd7766cb1
@@ -48,3 +48,5 @@ Assets:
 - Assets/Bundles/UI/Blood/UIMonsterHp.prefab
 Dependencies:
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/993936939de4747b6b0ed40584be7a55.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/caf55d071646e82a4ce3831d4de5e326.unity3d
