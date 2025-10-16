@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2586167267
+CRC: 1176152416
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7e8fcc6302a6df7e2ffb7a6824044b50
+    Hash: 1f1811677adc2a212b77d70044f1be85
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/ItemConfigCategory.bytes
+- Assets/Bundles/Audio/UI/GetTask.mp3
 Dependencies: []

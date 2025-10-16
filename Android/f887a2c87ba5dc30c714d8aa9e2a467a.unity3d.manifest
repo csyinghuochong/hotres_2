@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3583416719
+CRC: 1477714271
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c22460cbd11197e503614089cc0d8c98
+    Hash: 7dd27310e775e0ba08134b493622ca0f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3e1e3a7e6138c5ab8849574302dd3c2d
+    Hash: 82b1e895506599485fcf37f819ab6ca8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -14,11 +14,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -33,18 +33,8 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.AnimationTriggers
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.ColorBlock
-- AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.Navigation
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Bundles/UI/Main/ItemTips/UIEquipDuiBiTips.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/0ae43d3e675a3134f1c24b56053098cf.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0ae43d3e675a3134f1c24b56053098cf.unity3d
