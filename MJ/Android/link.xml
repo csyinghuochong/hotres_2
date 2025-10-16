@@ -51,6 +51,7 @@
     <type fullname="NpcLocal" preserve="all" />
     <type fullname="ReferenceCollector" preserve="all" />
     <type fullname="TextFitEx" preserve="all" />
+    <type fullname="TextFitTip" preserve="all" />
     <type fullname="UIImage" preserve="all" />
     <type fullname="UISizeFangDa" preserve="all" />
     <type fullname="UnityEngine.UI.Extensions.UIParticleSystem" preserve="all" />
