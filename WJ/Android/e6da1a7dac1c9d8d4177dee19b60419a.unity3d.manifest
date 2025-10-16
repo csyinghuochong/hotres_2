@@ -1,21 +1,23 @@
 ManifestFileVersion: 0
-CRC: 3799419723
+CRC: 1039558420
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d20d0c5fc8e43b11c9c039e9b0526cdc
+    Hash: 7d4c8548bd4f97479c2c2dd6015d269c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 852985f3f63dadc8fe4dd484da116e67
+    Hash: b60f9dba1c0e5f44cd22f44d57e4fd4a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d20d0c5fc8e43b11c9c039e9b0526cdc
+    Hash: 7d4c8548bd4f97479c2c2dd6015d269c
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
@@ -44,11 +46,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.Mono
   ClassName: ReferenceCollectorData
 - AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.ArgumentCache
-- AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
-- AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.PersistentListenerMode
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.RectOffset
 - AssemblyName: UnityEngine.UI
@@ -66,16 +64,16 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Bundles/UI/Main/ItemTips/UIItemTips.prefab
+- Assets/Bundles/UI/Main/Role/UISelectWeapon.prefab
 Dependencies:
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/113f99598e418e3618f7c0d62066fb82.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/160a3c949daff9644bb4cce6192b79a6.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/218231d73c3c974b2ee8fe79c08a0ae2.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/368b42540a165a44a5865aafa221da41.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/37c69053e823b75820803951b8f78aa1.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/38f63284f15481e0e4369670c28abe98.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/3e8bdbb5ba10325f0a9c4a0849a59eec.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/442f9224ada5d96d6abe2c927f992367.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/591f54e8ea8d58a8230f42c1f99b2722.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/8561838f3cccb02af7700464ac936abb.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/a7311715e315d71f42ddb83c2ede88d1.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/f9887e590f2f4cc09c926382c16f4856.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/9ffc8462c60b8d78364e6802e6d031c7.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/a1fb55e89335399c761344e4b009d101.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/ebf2ba71d6daffbbb448707ac1ee11d8.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/f20faf0e7c55bf860c320300b0530a90.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/f4cf15203323bb59bcf6af9e06ab4724.unity3d

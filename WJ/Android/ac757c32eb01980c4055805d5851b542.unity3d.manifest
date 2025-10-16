@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 484390834
+CRC: 232608934
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 193036823a7b8c19acd90dfeed7e0608
+    Hash: 59487486218f7d07bba373ec304d97b3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 88f4053155d2c8e8bdeb16c00867b658
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 193036823a7b8c19acd90dfeed7e0608
+    Hash: 59487486218f7d07bba373ec304d97b3
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,8 +25,8 @@ Assets:
 - Assets/Mono/GameDemo/OldResources/Water (Basic)/Sources/Objects/Materials/water
   plane-lambert1.mat
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/2a094f30f081ecf0672dae995eef5279.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/41b55d3c87580ed52b1ef60a1abcacb8.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/fcb16aee83f3edaeb655215be6e5dd5e.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/fd3155a9f3da4ab4e24190b3da103845.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/2a094f30f081ecf0672dae995eef5279.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/41b55d3c87580ed52b1ef60a1abcacb8.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/fcb16aee83f3edaeb655215be6e5dd5e.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/fd3155a9f3da4ab4e24190b3da103845.unity3d

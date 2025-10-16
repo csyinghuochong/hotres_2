@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2902869893
+CRC: 2460147079
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c940e031884cb9a4f1aa3f2db3dcc220
+    Hash: 63609c09fc5dbab277472e46d70781db
   TypeTreeHash:
     serializedVersion: 2
     Hash: c2746967ffedb83fcef786bb67820181
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c940e031884cb9a4f1aa3f2db3dcc220
+    Hash: 63609c09fc5dbab277472e46d70781db
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,7 +82,6 @@ Dependencies:
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/0932869719796c9bd3aaf40bbbf7f53d.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/1a236a55b42f60fd0f938e9907e66eca.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/231b7726f4170e31764ad2f482ce25f1.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/6b32a93398eaa44ebd61633a19c6cf91.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/7aaf9e3e63dee555d1ae20b4a3d99a1d.unity3d
@@ -91,4 +90,5 @@ Dependencies:
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/af17311ae2f103d2d7250b1652cd9081.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/bfe5ce7a47c6b230ba2e046c589e83a6.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/f5c2b423f2fc45622361f6d3d29e9299.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/fa461782b514cc9a50b65abac6534e95.unity3d
