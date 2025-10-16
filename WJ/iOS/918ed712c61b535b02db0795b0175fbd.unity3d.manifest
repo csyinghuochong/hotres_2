@@ -1,22 +1,20 @@
 ManifestFileVersion: 0
-CRC: 3986877513
+CRC: 735095620
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 907a2302a28732d73e50fa830b93f970
+    Hash: 2855bec7e143ebce04f5bb7c0e8c309c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2d8df09e698f722ada1caa03d3413830
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 907a2302a28732d73e50fa830b93f970
+    Hash: 2855bec7e143ebce04f5bb7c0e8c309c
 HashAppended: 0
 ClassTypes:
-- Class: 28
-  Script: {instanceID: 0}
-- Class: 213
+- Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Res/UI/UIRes/Imgage/Img_191.png
+- Assets/Bundles/Audio/UI/GetTask.mp3
 Dependencies: []
