@@ -5,7 +5,7 @@
     "IncludeAssetGUID": false,
     "OutputNameStyle": 4,
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-10-16-896",
+    "PackageVersion": "2025-10-16-932",
     "AssetList": [
         {
             "Address": "",
@@ -33273,9 +33273,9 @@
         },
         {
             "BundleName": "assets_bundles_code.bundle",
-            "FileHash": "b7ac14465d2d5d2bea0c7fc72cb2706a",
-            "FileCRC": "ec0719a6",
-            "FileSize": 5943804,
+            "FileHash": "496d598fda7dddb63a701fe13ed7b43f",
+            "FileCRC": "9dde1de4",
+            "FileSize": 5943857,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
@@ -33673,9 +33673,9 @@
         },
         {
             "BundleName": "assets_bundles_ui_common_es_chengjiureward.bundle",
-            "FileHash": "927eed18c17076ca88b819087239c5bd",
-            "FileCRC": "31524469",
-            "FileSize": 11196,
+            "FileHash": "14b4ffe077bac334e2677c3716bb8f3a",
+            "FileCRC": "acc093b0",
+            "FileSize": 11185,
             "IsRawFile": false,
             "LoadMethod": 0,
             "Tags": [],
