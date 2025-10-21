@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2084874614
+CRC: 1043635679
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be78c4b1b3eeda3bfcfce4c1ee45f02b
+    Hash: a13ab9cae9dcde1f5ea3b1f8c3b7af4b
   TypeTreeHash:
     serializedVersion: 2
     Hash: e4b776ffd57d6707358d617e4a334c67
@@ -73,6 +73,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/PetSet/UIPetChallenge.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/233500c0f18ec99c2d1188568c58f402.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2e597a19f89fa05a0ec4da82bf92127c.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/300a207faed8f7b216aae3e3e4306913.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/378003f0aae41977900722226b5511da.unity3d

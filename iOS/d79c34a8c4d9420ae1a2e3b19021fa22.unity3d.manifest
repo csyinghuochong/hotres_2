@@ -1,15 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1754444489
+CRC: 2841735415
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e42d9c29eaab10f8b0264a54b0c0ebe
+    Hash: 8032ee2435e41975a65cfb00b1e11e6e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cc930cf406602949e84d74b7de82517e
+    Hash: 502700228d309bad33475375a5a4bd27
 HashAppended: 0
 ClassTypes:
 - Class: 1
+  Script: {instanceID: 0}
+- Class: 21
   Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
@@ -26,6 +28,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: ea6c26686c050414eb1d71a523983e91, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
@@ -38,6 +42,10 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
@@ -72,6 +80,7 @@ Assets:
 - Assets/Bundles/UI/Main/Task/UITaskB.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/07443da5060df957a13d0bf754161a92.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/08b2e59a43efd6076d965f5cec2fcdcb.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/4513ef296cbbf14974469edc9e00c103.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d

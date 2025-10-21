@@ -1,15 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3319398493
+CRC: 1658700191
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 403958d88183704bd7ef7cf6cfb589cc
+    Hash: b453932bd29064777735c729a27c93e4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0259bbf81c0dc712c29e0b567c251ff2
+    Hash: 8ab6eef53af198e05320e4a7cd081b12
 HashAppended: 0
 ClassTypes:
 - Class: 1
+  Script: {instanceID: 0}
+- Class: 4
   Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
@@ -18,13 +20,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
 - Class: 114
@@ -79,8 +77,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.Navigation
 - AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
-- AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.Slider/SliderEvent
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
@@ -91,6 +87,7 @@ Assets:
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0b3455359ae18ee6f5b4287b89451c77.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1f21981b56277187351de2a1d0a6ee91.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/233500c0f18ec99c2d1188568c58f402.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/2e45f63350462b2ae9170698facdc071.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/38f63284f15481e0e4369670c28abe98.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
@@ -100,9 +97,13 @@ Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7bf40320d53e61553a02a58087b85ebd.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8c4435c435b5923c5418265844ffe60f.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/9632ccae9ce221be623aeffb752985ff.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/af17311ae2f103d2d7250b1652cd9081.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ba8744259bb3e9bab82210311b7d01eb.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/be6d311f20f09a3185a4838a74e99874.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c5decb6a8713ba1c0666abecac39483d.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c70bf2473f526d1f8e398a9a22e11327.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/c8c4ba8c87c45afd8da004332c837b85.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/cde5b22d7777d25681329bd0d2e98e6e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/dc05148f5cedf80af99d39f711322b16.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e58eeeb3af2f82cbd2eb351620cf3a42.unity3d
