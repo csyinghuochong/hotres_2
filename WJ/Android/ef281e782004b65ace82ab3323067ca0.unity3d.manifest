@@ -1,20 +1,20 @@
 ManifestFileVersion: 0
-CRC: 3755031288
+CRC: 3041529699
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 34fc6f7bc1229276b5e2a95131950598
+    Hash: 17daf8b7ae22701c8d3eb3982fd28241
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 2612ac43db082a73502ee80f2eceb73f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 34fc6f7bc1229276b5e2a95131950598
+    Hash: 17daf8b7ae22701c8d3eb3982fd28241
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/OccupationConfigCategory.bytes
+- Assets/Bundles/Jpg/Back_5_1.jpg
 Dependencies: []

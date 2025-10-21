@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3323689778
+CRC: 2241385130
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e7615d35293283c11600294ec2c13a1
+    Hash: 50767b99c8c67a6b95da3b47d674235f
   TypeTreeHash:
     serializedVersion: 2
     Hash: ad900c9b0260370a7c8404f47465f4f2
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2e7615d35293283c11600294ec2c13a1
+    Hash: 50767b99c8c67a6b95da3b47d674235f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -74,16 +74,16 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Skill/UISkillSet.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/17c8f0cf242fa448fcd5433a85864eac.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/3b354936a9ac617920cea1145f77f1b7.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5f6d022f1ee907905736f7db80fddf5e.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/6430467bfbf0d2869ce06401b8c47085.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/6b32a93398eaa44ebd61633a19c6cf91.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/76a9693e0d952f894012869fdfbfda53.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/777a6c044ae7425ab280947d212ddde8.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/89c5229fcdb926f2f172368c5b4f0be3.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/8cc7d1a1c8acafbb4b52d92a67e790a9.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/bfe5ce7a47c6b230ba2e046c589e83a6.unity3d
 - H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/d78abe373aa3e2360b35ccd203b8cf90.unity3d
+- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/f7a898161d2b2abc2bf1f4fd2147a79f.unity3d
