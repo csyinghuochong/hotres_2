@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 340883559
+CRC: 4253505672
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5174206703b9fb959a9c72e0a5b757f4
+    Hash: af91e61ea132fa9fc89af500fac01236
   TypeTreeHash:
     serializedVersion: 2
     Hash: 93a7884d09dbd0a3f76768dd65428aed
@@ -54,5 +54,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Bundles/UI/Main/Chat/UIChatEmoji.prefab
-Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/3fee61081d4e30121bdc822a28dbf69f.unity3d
+Dependencies: []
