@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3542569582
+CRC: 2326442115
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8f17f469deda3a85f2dd3cc340ade779
+    Hash: 6b1d5ec1487ab7c9113798b388a7920b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6fafb9c41779dae01a4d4805dec74a0f
+    Hash: 1785d38c0f60cc81e5a3ea3669e81e3c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8f17f469deda3a85f2dd3cc340ade779
+    Hash: 6b1d5ec1487ab7c9113798b388a7920b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -45,6 +45,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
@@ -54,6 +56,10 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 317d360977e04874393d7eaa4e6f736a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 114
@@ -79,6 +85,8 @@ ClassTypes:
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Unity.Mono
   ClassName: ReferenceCollectorData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.ArgumentCache
 - AssemblyName: UnityEngine.CoreModule
@@ -131,10 +139,12 @@ Dependencies:
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/6f14a63952005396f439ff18e4fb84ae.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/888fdfcca0c98e504c0595d0345129ef.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/899d7e36544cb02346615604644d7e0a.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/8b8d201ddcd7257e611e03267bb56903.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/8c4435c435b5923c5418265844ffe60f.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/9ffc8462c60b8d78364e6802e6d031c7.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/a1fb55e89335399c761344e4b009d101.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/af17311ae2f103d2d7250b1652cd9081.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b4342a76f6cc4e2d17b7d8e2e7b983d0.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/ba8744259bb3e9bab82210311b7d01eb.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c08c26f8ed7efdefe74b073753ecf5f8.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c99f6e18d2ad87ae1cf62a6add9bad61.unity3d
