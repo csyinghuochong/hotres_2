@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1114775681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eadcfbd0e4c074bcf7210ff2be7402c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/Emoji/emoji.png
+Dependencies: []
