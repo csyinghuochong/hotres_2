@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3831015144
+CRC: 2728470631
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5edf3043dafabb59b1d9ec8b8f369a28
+    Hash: cc196cab859e579dfbd9bf6b6feaf446
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0df1dec30b5d061d422d3e6493d27647
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5edf3043dafabb59b1d9ec8b8f369a28
+    Hash: cc196cab859e579dfbd9bf6b6feaf446
 HashAppended: 0
 ClassTypes:
 - Class: 48
@@ -20,6 +20,7 @@ Assets:
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-DetachAlpha-Top.shader
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Shaders/Add_Fresnel.shader
 - Assets/Res/Effect/EffectResSet/Effect/E3D-RenderCore/Shader/ShaderB/E3DEffect-C1-Add-Disslove.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF.shader
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Alpha-Blend-DetachAlpha-Top.shader
 - Assets/Mono/GameDemo/ArtResource/Shaders/Mobile-Particle-Add-DetachAlpha-Top.shader
 - Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C0-Falloff.shader
@@ -33,6 +34,7 @@ Assets:
 - Assets/Res/Effect/BackBlur/BackBlur.shader
 - Assets/Mono/GameDemo/Editor Default Resources/Effect/Old/GameEffect/All/IceEffect/Effects/Magic
   Ice Vol.1/Shaders/ParticleCook-Transparent-AlphaBlend-Diffuse.shader
+- Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
 - Assets/Mono/GameDemo/ArtResource/Shaders/Particle-Add-DetachAlpha.shader
 - Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonBasicOutline.shader
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 2/Shaders/Blend_TwoSides.shader
