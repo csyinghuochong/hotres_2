@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3366710420
+CRC: 1317202949
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 14530996db853f9aed359a9b4eee6cbc
+    Hash: 711bbae66f5cea2db79aafb9959a1363
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4d00ee19a64e9bebd8066ab01a53b54d
@@ -31,4 +31,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Monster/DorrWay_1.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4e02260fcd14ca7ac3a7383d041bf56c.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4e02260fcd14ca7ac3a7383d041bf56c.unity3d
