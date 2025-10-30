@@ -6,7 +6,7 @@ Hashes:
     Hash: 662332958ad32e2e118998e4728eddfb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1e04ad315718c9b4666e0a32cdaf3bbb
+    Hash: 6796df260c616b76382c575699acca86
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -80,6 +80,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 093b864b8ba8b4941965580d6310498c, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 2fe5e53b6379ebb44ae5cd57b10aac0e, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 0bb20e8edf9911a48a1d2961bd518b8d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1c67c65685bd74b28a446c6012c4ecdb, type: 3}
@@ -105,8 +107,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9795cf69b12931d40a531ad18009e927, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 2fe5e53b6379ebb44ae5cd57b10aac0e, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 124
