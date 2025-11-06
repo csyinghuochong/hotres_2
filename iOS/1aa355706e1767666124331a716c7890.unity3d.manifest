@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1988335050
+CRC: 4250544738
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cd33ca6ade6a1ea24970f2bdb0677d0f
+    Hash: 99dc51d78d21624ce8cb676599c74e6b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 68c985bf88fecc38b460cdb825182138
@@ -61,6 +61,7 @@ Assets:
 - Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Blend_CenterGlow.shader
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/JR1/Effects/Shaders/Builtin/Particle
   Add.shader
+- Assets/Mono/GameDemo/Editor Default Resources/RPG Monster Pack 1/Shaders/Illumin-DiffuseAndAlphaTest.shader
 - Assets/Res/Models/RPG_character/Shader/Cartoon.shader
 - Assets/Res/Effect/EffectResSet/Effect/EffectPackage/ArtData/JR1/Effects/Shaders/E/E3D/E3D_EF_31_ADD_Top2.shader
 - Assets/Res/Effect/EffectResSet/Hovl Studio/Epic toon VFX 3/Shaders/Lit_CenterGlow.shader

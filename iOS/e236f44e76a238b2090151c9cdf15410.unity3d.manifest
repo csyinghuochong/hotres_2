@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 960294941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b481f4d3fea2d9a4b6e97cee935a780f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Fire Creatures Pack/Hell Creeper/Textures/FX-FireBreath.tga
+Dependencies: []
