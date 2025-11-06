@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1073015357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 208490cdddeeb11b2d9820dd33019014
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/Terrain/1576-1.png
+Dependencies: []
