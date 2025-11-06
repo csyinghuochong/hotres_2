@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3948784422
+CRC: 671655908
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 073766376a593b0ce5b89fb6b5c89729
+    Hash: 0f433ce2fb48e3f9346adde59bf0fb5c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7d3ee0ccd560b1a1955e4cfb55c94c31
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 073766376a593b0ce5b89fb6b5c89729
+    Hash: 0f433ce2fb48e3f9346adde59bf0fb5c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -78,6 +78,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Fashion/UIFashionShow.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/027d95e058523b6cb4e667f9ff19b505.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/113f99598e418e3618f7c0d62066fb82.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/160a3c949daff9644bb4cce6192b79a6.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/231b7726f4170e31764ad2f482ce25f1.unity3d

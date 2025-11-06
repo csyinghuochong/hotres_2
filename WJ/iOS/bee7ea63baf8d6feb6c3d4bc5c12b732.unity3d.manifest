@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 73763100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c63afb9a56671bad7c5cba9aa6e3b34e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c63afb9a56671bad7c5cba9aa6e3b34e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/OldResources/3DModel/Scene/Model/YeWai/YeWai_3/model/Materials/FB0_zhenghe01.tga
+Dependencies: []

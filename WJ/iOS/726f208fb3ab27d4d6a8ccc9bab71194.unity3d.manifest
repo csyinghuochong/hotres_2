@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 878097371
+CRC: 3872572419
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e33ffa0411cc7cb06a05186a37ee9a21
+    Hash: b64ee6cc5dd181fa6561d364d1eaa9fc
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3994f2aeaed5891649587712aa5cbbfa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e33ffa0411cc7cb06a05186a37ee9a21
+    Hash: b64ee6cc5dd181fa6561d364d1eaa9fc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,4 +42,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Monster/72009021.prefab
 Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
