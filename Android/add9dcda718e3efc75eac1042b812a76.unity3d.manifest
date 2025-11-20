@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1480461823
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5a1ba73a6205d4727b75f32d34c5ff3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Fantasy Heroes Pack 01/Elven Archer/Textures/Elven Archer Green.png
+Dependencies: []

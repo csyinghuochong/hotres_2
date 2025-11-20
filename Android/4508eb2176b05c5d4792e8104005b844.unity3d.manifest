@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1888331577
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5da19733bb667689d1716c8c6690eb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f506b9622ae27fda89e6ac5748aa74c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/2000012.asset
+Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/018fa96e599a568ae84aa7bc7a13dfe0.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/4c1c490846d91a07d9b5fade45bbdffa.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e4c4249e374d2b99ab8cc15618c3771f.unity3d
