@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 929348313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0023af92dc3b47d17cd9f6fe9834189
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d8ebac64479daed4cc03e1bcee586804
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Plants_Tree_D1.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/38555b23eaad0ef2f01a8856ab4fbe87.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e314aaa2e4209e33ce19b77c801d6a66.unity3d
