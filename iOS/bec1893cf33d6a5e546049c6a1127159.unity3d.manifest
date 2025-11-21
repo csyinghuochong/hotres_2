@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3702175009
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f8596658cd48f59acb809a92254128e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Monster/Old/Ice/Boss_LangRen.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b4f73b7906ce3198c1072f5cdada0ced.unity3d

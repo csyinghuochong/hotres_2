@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1017776935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffc419995151e668f90a14da734d3c88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Monsters Ultimate Pack 05 Cute Series/Dragon Darkness Cute Series/Textures/Dragon
+  Darkness.psd
+Dependencies: []

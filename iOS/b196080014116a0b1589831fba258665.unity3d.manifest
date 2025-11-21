@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 478736049
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b91b49759af9b6662a9fe3410705bb36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d1e0093d0592ca7550333bbf0c8f406
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mono/GameDemo/Editor Default Resources/Building/Old/MaoXianDao2/Rock_S_27.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/643bc31787fa7f3e88c16663b1e4ca1b.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e9d0561b1e380ebeb7212f7a41447306.unity3d

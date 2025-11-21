@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3249140305
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ccf5aafb7e385c3b057faa8871905dcc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MonsterSet/Monsters Ultimate Pack 02 Cute Series/Dragon Fire Cute Series/FBX/Dragon
+  Fire.controller
+Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/087cedfc074ca3bad6a26f09d11c69a9.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1132d9bda5f9164a4b932127b6e1095f.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/68bce5263ce9b4bd4f2788875d05e7be.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6c449ed0e4d20f59f9fdbdadc713559d.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7a3ea3eea15f9efe2b7b894bb6ecb423.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8ae8bc8269faa18c3c42f8db1ecbc45e.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/93ac4bd806259de1f3e20c33124f4286.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/b8dba70a0e3b3f7ff6fd80642c57dc59.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/e61a53d57dc098eef915c0f664f8ef47.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/ed1283ff4b3f3e369784c120cfa4e2c0.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f3507f268974797738774bcdfa7a4bfd.unity3d
