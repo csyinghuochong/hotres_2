@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4208211731
+CRC: 2708391821
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 545f19bbd85037bea1c89ffc7f3a689f
+    Hash: 40d599b609dbe8dffdcfaa9acb8136f1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,4 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/ThirdRes/GUI Pro Kit Fantasy RPG/Particles/Materials/fx_glow3.mat
 Dependencies:
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/7c1daa07efbf1f3cdd00517afae5afe1.unity3d
