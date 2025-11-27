@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2788895721
+CRC: 313147597
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 387b15aaf2be95300e03d679230a537c
+    Hash: 2f1838a9221b34d336b5a3744d9e5e2d
   TypeTreeHash:
     serializedVersion: 2
     Hash: bf10fb1b0533145114f6a99149f885ac
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 387b15aaf2be95300e03d679230a537c
+    Hash: 2f1838a9221b34d336b5a3744d9e5e2d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -87,6 +87,7 @@ Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UIMagickaSlot.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/0e3b27ceaa3224218667f981d56e5552.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/10006fc1a04c22ba8d8fb303c749b7fe.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/113f99598e418e3618f7c0d62066fb82.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/160a3c949daff9644bb4cce6192b79a6.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1727346d4152b3e47949a2711c6a1eeb.unity3d
