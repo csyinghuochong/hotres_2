@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3834428175
+CRC: 3862140726
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cae9dfe1997168015ec2c788540e0f1e
+    Hash: 473025db94f2cf6ac26e81c79eac31ae
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,4 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/ThirdRes/GUI Pro Kit Fantasy RPG/Particles/Materials/fx_glow3.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/7c1daa07efbf1f3cdd00517afae5afe1.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/7c1daa07efbf1f3cdd00517afae5afe1.unity3d

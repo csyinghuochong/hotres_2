@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 294006719
+CRC: 423761849
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b763b33f1af3414e7d12c24aa96506f8
+    Hash: 25876f065423bf6cb94d5cca29bc9108
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2ac4353984f9d013b83e89048e1ecdd0
@@ -19,4 +19,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/ThirdRes/GUI Pro Kit Fantasy RPG/Particles/Materials/fx_star2.mat
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/68a490dafb4537e66c24cbbb5864e1f5.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/68a490dafb4537e66c24cbbb5864e1f5.unity3d

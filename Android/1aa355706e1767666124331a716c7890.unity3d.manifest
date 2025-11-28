@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 979799709
+CRC: 556818386
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be7eff2c403679e7491e8b730962dd2b
+    Hash: 08e2a27965502a19e44addd4cf5482c0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 68c985bf88fecc38b460cdb825182138
@@ -56,6 +56,7 @@ Assets:
 - Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Slash.shader
 - Assets/Res/Effect/EffectsSharde/ToonShading/Shaders/ToonLit.shader
 - Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-Mask2.shader
+- Assets/Res/Shader/UIAdditive.shader
 - Assets/Res/Effect/EffectResSet/Effect2/E3D-RenderCore/Shader/ShaderB/E3DEffect-C2-Add-HardEdge.shader
 - Assets/Res/Shader/Outline.shader
 - Assets/Res/Effect/SkillBaseAct/ErbGameArt/Sword slash FX/Shaders/Blend_CenterGlow.shader
