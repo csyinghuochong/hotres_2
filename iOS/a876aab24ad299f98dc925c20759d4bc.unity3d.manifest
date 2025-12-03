@@ -1,17 +1,19 @@
 ManifestFileVersion: 0
-CRC: 2902818015
+CRC: 3103132293
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 461bb2ad7bcd020099e68a382633cc74
+    Hash: 95a7b2bcf5d9d4e1e927f7241d274581
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/TaskConfigCategory.bytes
+- Assets/Res/UI/UIRes/ImageBig/ImgBig_5.png
 Dependencies: []
