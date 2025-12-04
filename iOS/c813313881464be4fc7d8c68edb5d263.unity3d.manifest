@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1539270341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61142e4bb0bb31f3ab5330fed4eec0d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Recast/2000010.bytes
+Dependencies: []
