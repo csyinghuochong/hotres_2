@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 47216700
+CRC: 743299451
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8a08300d6f5b2e09a03b9cde59034d73
+    Hash: 07c08eb6bae6799838df4b566c10f489
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -425,9 +425,10 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/16000306.png
 - Assets/Bundles/Icon/ItemIcon/10000154.png
 - Assets/Bundles/Icon/ItemIcon/10045303.png
-- Assets/Bundles/Icon/ItemIcon/15311002.png
+- Assets/Bundles/Icon/ItemIcon/10010060.png
 - Assets/Bundles/Icon/ItemIcon/10010052.png
 - Assets/Bundles/Icon/ItemIcon/10080101.png
+- Assets/Bundles/Icon/ItemIcon/15311002.png
 - Assets/Bundles/Icon/ItemIcon/11300101.png
 - Assets/Bundles/Icon/ItemIcon/15510102.png
 - Assets/Bundles/Icon/ItemIcon/14100007.png
@@ -589,8 +590,9 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/10010029.png
 - Assets/Bundles/Icon/ItemIcon/14020012.png
 - Assets/Bundles/Icon/ItemIcon/10045401.png
-- Assets/Bundles/Icon/ItemIcon/15410211.png
+- Assets/Bundles/Icon/ItemIcon/10000167.png
 - Assets/Bundles/Icon/ItemIcon/15304004.png
+- Assets/Bundles/Icon/ItemIcon/15410211.png
 - Assets/Bundles/Icon/ItemIcon/14100108.png
 - Assets/Bundles/Icon/ItemIcon/10080801.png
 - Assets/Bundles/Icon/ItemIcon/14010006.png
