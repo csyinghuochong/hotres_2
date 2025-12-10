@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 250135220
+CRC: 533656167
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: faa14c0c73114d7d8db1657a74e50177
+    Hash: 30faa4558c495f12fac09d121b2f97bd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6ad37cd6c8e2a657f656471c6cf7e238
@@ -70,7 +70,8 @@ Assets:
 - Assets/Bundles/UI/TrialDungeon/UITrialHurtData.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/0932869719796c9bd3aaf40bbbf7f53d.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/254690b6326e19782f6b47056188bbfa.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3adefeef541aa505daa687dedb3d4439.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/442f9224ada5d96d6abe2c927f992367.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5becca8f232758648eaf149c35173c0a.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/8cc7d1a1c8acafbb4b52d92a67e790a9.unity3d
-- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/f20faf0e7c55bf860c320300b0530a90.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/6616b626c03439ec238ee8180b055303.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/af89ce4bafb474c74f2f3b8662d7d8d7.unity3d
