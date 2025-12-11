@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1137649323
+CRC: 2747773118
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2984e237052da39006dd2dc741f09eb6
+    Hash: 8813f0f3a2a6cadf239e4ad29b217e02
   TypeTreeHash:
     serializedVersion: 2
     Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
@@ -165,6 +165,7 @@ Assets:
 - Assets/Bundles/Icon/RoleSkillIcon/30031.png
 - Assets/Bundles/Icon/RoleSkillIcon/60031221.png
 - Assets/Bundles/Icon/RoleSkillIcon/63022201.png
+- Assets/Bundles/Icon/RoleSkillIcon/80003006.png
 - Assets/Bundles/Icon/RoleSkillIcon/60040404.png
 - Assets/Bundles/Icon/RoleSkillIcon/61012201.png
 - Assets/Bundles/Icon/RoleSkillIcon/63002003.png
