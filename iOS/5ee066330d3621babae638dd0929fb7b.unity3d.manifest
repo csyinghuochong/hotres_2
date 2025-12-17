@@ -1,17 +1,19 @@
 ManifestFileVersion: 0
-CRC: 1744166024
+CRC: 3883649021
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 41fe0d73684f0fb690e079452be18d95
+    Hash: b53d6507a9e1dd8420183694f0b29c66
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bb1c98fd3fd2df8fe937870a85fedf92
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
 HashAppended: 0
 ClassTypes:
-- Class: 850595691
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Scenes/50002Settings.lighting
+- Assets/Res/UI/UIRes/Imgage/Img_410.png
 Dependencies: []
