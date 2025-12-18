@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4291032848
+CRC: 3707175902
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1d1c73e08ca42bb61397af1934f14bb3
+    Hash: df446a46078a414732f95bccb60314e1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 21ae0ff5cea761269c272862d313b141
@@ -67,5 +67,9 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/ActivityV1/UIActivityV1ChouKa2.prefab
 Dependencies:
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/442f9224ada5d96d6abe2c927f992367.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
 - H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/c99f6e18d2ad87ae1cf62a6add9bad61.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cd5b32f337b0a05e4f33d8aafebf62e1.unity3d
+- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/fd91049ee6b939c843cc004390e04fac.unity3d
