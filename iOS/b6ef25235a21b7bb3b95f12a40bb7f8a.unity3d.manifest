@@ -1,17 +1,19 @@
 ManifestFileVersion: 0
-CRC: 2076545550
+CRC: 1455152774
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c442432e09e172fd6080d8789daac796
+    Hash: 2ef6c2728843145a8a7d0e2774eeb430
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/ItemConfigCategory.bytes
+- Assets/Res/UI/UIRes/Button/Btn_100.png
 Dependencies: []
