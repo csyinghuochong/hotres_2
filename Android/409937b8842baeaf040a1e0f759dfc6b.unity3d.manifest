@@ -1,17 +1,19 @@
 ManifestFileVersion: 0
-CRC: 1969379206
+CRC: 1656229085
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e3b244a243b1eb452446e6da0a642eb1
+    Hash: 4e75c36295e7eb01f795fdaebbbe1529
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/GlobalValueConfigCategory.bytes
+- Assets/Res/UI/UIRes/Imgage/Img_100.png
 Dependencies: []
