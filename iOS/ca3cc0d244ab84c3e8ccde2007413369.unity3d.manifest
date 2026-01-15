@@ -1,17 +1,19 @@
 ManifestFileVersion: 0
-CRC: 1650235315
+CRC: 2420468980
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a635b35cddc388191f7563969ec0c6a9
+    Hash: 93c552f0eea527d85269928c376f1b7d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/SkillBuffConfigCategory.bytes
+- Assets/Res/UI/UIRes/Imgage/Img_280.png
 Dependencies: []
