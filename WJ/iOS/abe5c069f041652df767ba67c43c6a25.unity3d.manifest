@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 429889636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc001b5c55a098fac856a652e47d78e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dc001b5c55a098fac856a652e47d78e9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/UI/UIRes/Atlas/MainUI/HintDian.png
+Dependencies: []
