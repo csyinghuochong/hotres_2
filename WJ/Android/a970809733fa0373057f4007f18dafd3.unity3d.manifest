@@ -3,13 +3,13 @@ CRC: 1319485702
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: da2cfbef373755aa6aa195a1e56a86f8
+    Hash: b799386e87c2b851907c7d0545cf33f9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9838d6d81319a57e8e1fe23d674a4563
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: da2cfbef373755aa6aa195a1e56a86f8
+    Hash: b799386e87c2b851907c7d0545cf33f9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,4 +30,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_GuangHuan_4.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/8c1741ae4da73d6768fd4c8248672456.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/8c1741ae4da73d6768fd4c8248672456.unity3d

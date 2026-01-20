@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1738278202
+CRC: 2193405365
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 56a9471cf7f327289919858f328b11bd
+    Hash: 3235e78c5e6d8c070bae6967dce87ce8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9e0d28c5fdf05aa14e5aab0351140646
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 56a9471cf7f327289919858f328b11bd
+    Hash: 3235e78c5e6d8c070bae6967dce87ce8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,5 +36,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/ScenceEffect/Eff_ChuanSongMen.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/4169bed4f58861eb43b0704cd7ed227c.unity3d
-- H:/GitWeiJing2022/Unity/../Release/WJ/DLCBeta/Android/f5899c3fa18c6866cc9b0b1f47a30b61.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4169bed4f58861eb43b0704cd7ed227c.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/f5899c3fa18c6866cc9b0b1f47a30b61.unity3d

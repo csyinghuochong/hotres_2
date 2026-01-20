@@ -3,13 +3,13 @@ CRC: 937943548
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c3b7259887f318156fe3be15647ef5d
+    Hash: 41237d542cc6655bddbe004133c6b382
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 688821e52e615f61b7bc7b307ec10da0
+    Hash: 3ada3f71ba3020927e3127fa0fa737cb
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9c3b7259887f318156fe3be15647ef5d
+    Hash: 41237d542cc6655bddbe004133c6b382
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,11 +19,11 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
@@ -92,6 +92,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/GM/UIGM.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5a18fe696277b55d06139cc32ec583b5.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/b4342a76f6cc4e2d17b7d8e2e7b983d0.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5a18fe696277b55d06139cc32ec583b5.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/b4342a76f6cc4e2d17b7d8e2e7b983d0.unity3d
