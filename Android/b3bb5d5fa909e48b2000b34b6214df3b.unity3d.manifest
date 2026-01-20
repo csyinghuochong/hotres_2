@@ -3,10 +3,10 @@ CRC: 3923807944
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 83a08b4be10cb0ceb11b62a550c9dade
+    Hash: 654cbd9885e0cb635c2e2465a4d81b8d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9ec478447e1696cd2f86295a0603c8d5
+    Hash: 82723491e311f77172940aa40ffe6adf
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -16,11 +16,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 115
@@ -47,4 +47,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Common/UITips.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3982583006
+CRC: 524196652
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 12f3631905ddc7406d2b1a1baac3502e
+    Hash: 6fee2d4d1af76ec3faa14b4b6695386c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 93338f85de941cb8e4d2bfc819e9e123
@@ -31,5 +31,5 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_ItemQuality_5.prefab
 Dependencies:
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/225351762ba95498f43c96049c122261.unity3d
-- F:/GitWeiJing/Unity/../Release/DLCBeta/Android/4169bed4f58861eb43b0704cd7ed227c.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/225351762ba95498f43c96049c122261.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/4169bed4f58861eb43b0704cd7ed227c.unity3d
