@@ -3,7 +3,7 @@ CRC: 4062648449
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e250c894a58f2257a8f15c694f63e057
+    Hash: 97a586b61372a6bff941719732dbb719
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3b50009207563df9637cd2976e17686b
@@ -33,6 +33,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/model/104031_zhs_npc.fbx
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/0eee5ec079fd7f6b161fd35d062be185.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/297c513e0132a6178252897576c17f4e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/a2ecc975eb095a9742ac21e496ce2516.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/0eee5ec079fd7f6b161fd35d062be185.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/297c513e0132a6178252897576c17f4e.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/a2ecc975eb095a9742ac21e496ce2516.unity3d

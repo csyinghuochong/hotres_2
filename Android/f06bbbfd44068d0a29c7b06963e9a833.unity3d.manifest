@@ -6,7 +6,7 @@ Hashes:
     Hash: add0ebda9487e7df5d23d82054cac032
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0dcb8e2481c06c3080459cd852e51126
+    Hash: e32b70cf36aa59400501d2192cf97edb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -16,11 +16,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 115
@@ -57,7 +57,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/NewYear/UINewYearCollectionWordItem.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e95070835ba4a0e5aa8c6d875fef9212.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/fa461782b514cc9a50b65abac6534e95.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/e95070835ba4a0e5aa8c6d875fef9212.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/fa461782b514cc9a50b65abac6534e95.unity3d

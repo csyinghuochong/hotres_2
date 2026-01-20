@@ -6,7 +6,7 @@ Hashes:
     Hash: d4a617fa787c41b5d259de904a618a64
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3d7aca698140f2896b307b2632570435
+    Hash: 03ae238d16e02ddfead8ca0bf5b4b0fb
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -16,15 +16,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3965ae1cd39e8e0419a651702900e377, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 114
@@ -53,6 +53,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Guide/UIGuide.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/cd2ad23865f06896020318bafedbe59d.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/e95070835ba4a0e5aa8c6d875fef9212.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/cd2ad23865f06896020318bafedbe59d.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/e95070835ba4a0e5aa8c6d875fef9212.unity3d

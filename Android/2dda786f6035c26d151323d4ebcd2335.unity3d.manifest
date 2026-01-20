@@ -6,7 +6,7 @@ Hashes:
     Hash: 79ac36ccfd453b5fe3444ad6d567af56
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 594bae7386fade5c38fa3efa11f52247
+    Hash: 5b7a555c5d3dd0f2cd6644ec09b8e1e1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -16,11 +16,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 07fa58a9b14314c0787b105dbeab5d75, type: 3}
 - Class: 114
@@ -59,7 +59,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Main/Watch/UIWatchPaiMai.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/004b8fee7f96c121490864b4efcef02c.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/38f63284f15481e0e4369670c28abe98.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/004b8fee7f96c121490864b4efcef02c.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/38f63284f15481e0e4369670c28abe98.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
