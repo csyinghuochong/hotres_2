@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2926677473
+CRC: 4226751606
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 743f2828677aac6272e006364ed8b53e
+    Hash: 2418a0f2f4ab28c5ab1111d8c22285e8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cddd30a61e08c1ba0086704043e20684
+    Hash: c9159a48f5625c2639e387d7b5f552fb
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 743f2828677aac6272e006364ed8b53e
+    Hash: 2418a0f2f4ab28c5ab1111d8c22285e8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,6 +20,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
@@ -52,19 +54,29 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.FontData
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UIChengJiuActivite.prefab
 Dependencies:
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/294a4fcaa369ea01d2671584eec3fd0c.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4c7a5da6f2726ccfe64b56e99acd4285.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/507c7475711d7d425c3dc3416908a178.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/60ba88743078bd94d11dfc31789a222d.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/c5cfd7a9fd0d2fbf18ff722731cea454.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/d40db5265fd16daa59f03ea45514bf97.unity3d
-- H:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/ebf2ba71d6daffbbb448707ac1ee11d8.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/294a4fcaa369ea01d2671584eec3fd0c.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/37b825214bf4eb952f1d21f517d2fda5.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/4c7a5da6f2726ccfe64b56e99acd4285.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/507c7475711d7d425c3dc3416908a178.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/5becca8f232758648eaf149c35173c0a.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/60ba88743078bd94d11dfc31789a222d.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/69c0e87cad72e9a093b0636580c2f201.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/c5cfd7a9fd0d2fbf18ff722731cea454.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/d40db5265fd16daa59f03ea45514bf97.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/ebf2ba71d6daffbbb448707ac1ee11d8.unity3d
