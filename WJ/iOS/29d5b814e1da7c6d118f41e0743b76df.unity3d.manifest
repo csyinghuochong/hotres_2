@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2456152028
+CRC: 3728150197
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bf81b3542669a121bf9856f651490fcb
+    Hash: 94980040ea2cf6093579cf57fdb0c308
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cddd30a61e08c1ba0086704043e20684
+    Hash: c9159a48f5625c2639e387d7b5f552fb
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bf81b3542669a121bf9856f651490fcb
+    Hash: 94980040ea2cf6093579cf57fdb0c308
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,6 +20,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
@@ -52,9 +54,19 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.FontData
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Bundles/UI/Main/ChengJiu/UIChengJiuActivite.prefab
 Dependencies:
