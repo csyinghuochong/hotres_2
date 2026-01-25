@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 398063660
+CRC: 2674479564
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0ff6217227d1a18d3a62192358ad7c65
+    Hash: 5aff41017eecc5a754d760b1db7c6c77
   TypeTreeHash:
     serializedVersion: 2
     Hash: cce081c9a91ac321d385fd7d62c9aef6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0ff6217227d1a18d3a62192358ad7c65
+    Hash: 5aff41017eecc5a754d760b1db7c6c77
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,7 +34,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Unit/Monster/70002012.prefab
+- Assets/Bundles/Unit/JingLing/10016.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/180ed9833321f8ee529ecc603ce4d94b.unity3d
 - /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
