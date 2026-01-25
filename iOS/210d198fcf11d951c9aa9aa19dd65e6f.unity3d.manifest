@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3802675043
+CRC: 1338098860
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d222c5001609a38a0f847fcec5fd2aca
+    Hash: 3a8fe7f88597d3ea1327cd362dd54eed
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: ff414f606ea1972259b080d7bcf51689
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/SkillBuffConfigCategory.bytes
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/tex/100650_gtss_npc_d_512.png
 Dependencies: []

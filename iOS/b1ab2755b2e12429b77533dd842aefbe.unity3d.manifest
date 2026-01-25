@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 112234949
+CRC: 1257153
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 23286306a2066b6d623d2db4af1e3632
+    Hash: 539292f1efff07193791d42682528bcd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e048b4fb955bc04d5fd9104ecb9b848e
+    Hash: e86aac4e67c8d3402f337ee83293a758
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,8 +25,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 74
-  Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
 - Class: 91
@@ -40,4 +38,6 @@ Assets:
 - Assets/Bundles/Unit/Npc/NPC_ZaHuo.prefab
 Dependencies:
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/3e9060e427c16466caf92faa95af995a.unity3d
 - /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/5c379eecfbda040472909c7d7fbbf218.unity3d
+- /Users/tangzhen/project/gitwj/Unity/../Release/DLCBeta/iOS/73512d3068673ef2eb36ab1fe0b5ea87.unity3d
