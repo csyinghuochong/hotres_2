@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3334459700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 144d1d2a59352f6af4466ea88cf9b3e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/OldRes/OldNpc/AnimatorSet/NPC_Niao.controller
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/3e9060e427c16466caf92faa95af995a.unity3d

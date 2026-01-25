@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1343781126
+CRC: 3801484917
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ec7d9d3466a876331e5c5706ae43ad3
+    Hash: 13e7c17e53d985d3d351fca77260ffc9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e048b4fb955bc04d5fd9104ecb9b848e
+    Hash: e86aac4e67c8d3402f337ee83293a758
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,8 +25,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 74
-  Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
 - Class: 91
@@ -39,5 +37,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Npc/NPC_ZaHuo.prefab
 Dependencies:
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- H:/GitWeiJing/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/3e9060e427c16466caf92faa95af995a.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/73512d3068673ef2eb36ab1fe0b5ea87.unity3d

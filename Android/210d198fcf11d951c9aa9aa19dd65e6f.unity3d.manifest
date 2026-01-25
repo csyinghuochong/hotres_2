@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4200322917
+CRC: 2044538880
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2af436642af3b32e1f0af818c5c96c01
+    Hash: 28658abcdb5b38ff329bbc1c864e9592
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: ff414f606ea1972259b080d7bcf51689
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Bundles/Config/ZuoQiShowConfigCategory.bytes
+- Assets/Mono/GameDemo/Editor Default Resources/MonsterModel2/tex/100650_gtss_npc_d_512.png
 Dependencies: []
