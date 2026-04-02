@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2990331258
+CRC: 1523295855
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 01156eaa30739eb9ce112e28550932ab
+    Hash: caa64e0f05b4ec126afa20c2d883f169
   TypeTreeHash:
     serializedVersion: 2
     Hash: 580d5c33de5589aedb88e101ca18db00
@@ -60,6 +60,8 @@ Assets:
 - Assets/Bundles/UI/Main/FenXiang/UIQQAddSet.prefab
 Dependencies:
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/07443da5060df957a13d0bf754161a92.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/3b354936a9ac617920cea1145f77f1b7.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/49ed80e4bb550602ea1e1c6f27ad5c2e.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/591f54e8ea8d58a8230f42c1f99b2722.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/72d356d87a42f472edab8b62a9f85f9c.unity3d
