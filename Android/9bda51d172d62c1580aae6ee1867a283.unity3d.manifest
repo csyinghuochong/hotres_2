@@ -1,15 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2753777397
+CRC: 3366776654
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 16e9109ea1480ec3c0613abc7dd45c36
+    Hash: 08912a8b71937c2bc475e9017a223b4f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a778e65da5dc3d080c791f6c323b1bc4
+    Hash: 4e70867cd0c76c8217e226c19b192cfb
 HashAppended: 0
 ClassTypes:
 - Class: 1
+  Script: {instanceID: 0}
+- Class: 21
   Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
@@ -84,6 +86,7 @@ Dependencies:
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/59377b882607119f2a0817f4ad83209d.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5becca8f232758648eaf149c35173c0a.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5c8ab17af442f2c668dc3fd5a2da2dab.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/6a0d7ca8b85a44f67b9e145654bdb29f.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/8561838f3cccb02af7700464ac936abb.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/ba8744259bb3e9bab82210311b7d01eb.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/eaa3897b6fe44faac1ebdb280e3f832c.unity3d
