@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3322256294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0e2b9217046fae613e94a13c18ef204
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0e2b9217046fae613e94a13c18ef204
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Materials/Mobile/ForestSpirit/M_ForestSpirit_Body_Nightmare.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/7ebcd042fc704e44e7bcaa6fe5fd3046.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/afca08bd3cb2a8eb7ae6d638ad57f6fc.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/e3e89190c1063c8bb77fd5cca5b87a7a.unity3d

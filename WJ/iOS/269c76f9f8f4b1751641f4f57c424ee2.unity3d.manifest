@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 593169716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e1233a7caad107b78bd749065926a8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6e1233a7caad107b78bd749065926a8c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Materials-E3D/E3D-Sequence361-bh27.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c373ec5a713c882ff3da7f5c0d5705d9.unity3d

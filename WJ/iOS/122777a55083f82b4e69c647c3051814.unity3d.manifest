@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3136551596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e43b78624ea509a6259e759a29f5ec4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e43b78624ea509a6259e759a29f5ec4d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Cartoon Characters Pack3/Panda Warrior/Textures/Panda Warrior_Body_Texture.png
+Dependencies: []

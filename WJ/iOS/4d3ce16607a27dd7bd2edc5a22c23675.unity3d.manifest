@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3075906968
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f94c2eafa534ba748b0de36e6c40ec7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0f94c2eafa534ba748b0de36e6c40ec7
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Cartoon Characters Pack3/Panda Warrior/Animations/Panda Warrior_attack2.anim
+Dependencies: []

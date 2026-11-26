@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2423830738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ecdec6bc0c38ea8d51d3742de8af085e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ecdec6bc0c38ea8d51d3742de8af085e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Weapon_Diffuse_Red.tga
+Dependencies: []

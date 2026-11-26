@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3936475961
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 003a9a23b5ca482a7308b37d310dbc45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 003a9a23b5ca482a7308b37d310dbc45
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Materials/Mobile/MushroomMinion/M_MushroomMinion_Cloth_Blue.mat
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/1aa355706e1767666124331a716c7890.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/34702992d3a07c73824868e6d41898bd.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/4182559aa827dcaafe325c61b2115eaf.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/5ee23a3b483b3fa64dbba2e6bb7352cf.unity3d

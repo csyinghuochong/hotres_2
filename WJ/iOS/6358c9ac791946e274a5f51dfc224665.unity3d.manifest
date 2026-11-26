@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1160448000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44337f9314f8fa35b7c5318f34894052
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44337f9314f8fa35b7c5318f34894052
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Clothes_Diffuse_Green.tga
+Dependencies: []

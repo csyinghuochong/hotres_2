@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3004648478
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95df4a17f6331ef01711bbd435ea8914
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 95df4a17f6331ef01711bbd435ea8914
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/ForestSpirit/T_ForestSpirit_Head_Diffuse_Nightmare2.tga
+Dependencies: []

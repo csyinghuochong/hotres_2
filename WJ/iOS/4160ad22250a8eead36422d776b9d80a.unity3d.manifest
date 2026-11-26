@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 529765647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e39ecec3681b15455480e8c0ddd6a967
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff245b4c0078243060531a03e033561c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e39ecec3681b15455480e8c0ddd6a967
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Cartoon Characters Pack3/Panda Warrior/Prefabs/Panda Warrior.prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/8eb3c4487d8d11e8b66f58d24738d144.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/b9fb343beae55d1b92cf66925bf116eb.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/ba0f912f7519292ef53fd0db6411de46.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/c4917f4158b9a996810618b96aea0f70.unity3d

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 793769371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2d3644b8079ce67024b3525c895a3b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b19a9883b4e54e2a1d05e2c50355e560
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a2d3644b8079ce67024b3525c895a3b1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Prefabs/Mobile/MushroomMinion/MushroomMinion
+  (4).prefab
+Dependencies:
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/00396320a65671cb3e76586deee6b3bc.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/571a98391fe49325b9b24d72226bbe56.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/7cd506cca17bf410faad8f25fad6e846.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/876955e36900e087d2917bbc94ca244a.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/ce669a00eb554a2b40ed1dbd25ad7110.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/ee630c75b2e8ccf885bea68f49f13400.unity3d
+- /Users/tangzhen/project/gitwj_2022/Unity/../Release/DLCBeta/WJ/iOS/fe469b240d9366f647e7ccb42d99be3b.unity3d

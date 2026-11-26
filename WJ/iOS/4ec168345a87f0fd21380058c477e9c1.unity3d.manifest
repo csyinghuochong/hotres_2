@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1236042306
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 435b091b0a1ad52a9683a205fd4b96ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 435b091b0a1ad52a9683a205fd4b96ed
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Body_Diffuse_Red.tga
+Dependencies: []
