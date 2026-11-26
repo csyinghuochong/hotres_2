@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3425828863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e735fa763de882009d6c5b0baa66be2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1e735fa763de882009d6c5b0baa66be2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/Materials-E3D/E3D-Moon11-bh11.mat
+Dependencies:
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/bb1f15f9062ff88493378bf507cad2cb.unity3d

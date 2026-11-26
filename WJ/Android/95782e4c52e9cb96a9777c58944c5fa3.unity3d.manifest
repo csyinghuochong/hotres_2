@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 807888997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 144771e4e6c3380296c9595ae964daef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 144771e4e6c3380296c9595ae964daef
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Materials/Mobile/MushroomMinion/M_MushroomMinion_Hat_Red.mat
+Dependencies:
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/36518f3bd341bc37ff6ccbce4f4eb145.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/836c5dd0f09a042885bc28a23e4dfac3.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/d68e266e2a1905a9d3a4062b86e66fef.unity3d

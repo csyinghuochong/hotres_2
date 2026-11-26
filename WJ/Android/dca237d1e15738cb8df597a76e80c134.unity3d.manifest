@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4077853209
+CRC: 1367079660
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fb70d15c4c035fbcb7cbf26d13a2d1d5
+    Hash: b7f19a9c9ba7d8313f960ecac27ea430
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fb70d15c4c035fbcb7cbf26d13a2d1d5
+    Hash: b7f19a9c9ba7d8313f960ecac27ea430
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -675,6 +675,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/11500202.png
 - Assets/Bundles/Icon/ItemIcon/10010101.png
 - Assets/Bundles/Icon/ItemIcon/10035004.png
+- Assets/Bundles/Icon/ItemIcon/10031019.png
 - Assets/Bundles/Icon/ItemIcon/10010053.png
 - Assets/Bundles/Icon/ItemIcon/10033012.png
 - Assets/Bundles/Icon/ItemIcon/10041106.png
@@ -1072,6 +1073,7 @@ Assets:
 - Assets/Bundles/Icon/ItemIcon/13002002.png
 - Assets/Bundles/Icon/ItemIcon/15401002.png
 - Assets/Bundles/Icon/ItemIcon/10030032.png
+- Assets/Bundles/Icon/ItemIcon/10031018.png
 - Assets/Bundles/Icon/ItemIcon/15210102.png
 - Assets/Bundles/Icon/ItemIcon/15211013.png
 - Assets/Bundles/Icon/ItemIcon/15810101.png

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2628168991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f687c0f6bb6ce547ba7fe517ec78b6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2f687c0f6bb6ce547ba7fe517ec78b6f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Cartoon Characters Pack3/Panda Warrior/Materials/Panda Warrior_Body_Mat.mat
+Dependencies:
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/122777a55083f82b4e69c647c3051814.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/148d2b88155387593b04745430311494.unity3d
+- G:/GitWeiJing2022/Unity/../Release/DLCBeta/WJ/Android/1aa355706e1767666124331a716c7890.unity3d
