@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3410900184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec479789fcd335062ae5fcd14380458a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7c0cb6ead8802f8c30a722444814582
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Unit/Pet/1009501.prefab
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1b53c0cc2833ec53601e05643605e4d8.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/467c6aa13728bf5e4d11a46c1ebc6099.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/7cd506cca17bf410faad8f25fad6e846.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/7eeb38c52d483c428df51fede7ce4e12.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/b41d68cd91321e3dfa892f3e35f081a8.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/e18a58d78c81356bbcb22a8a764bb85c.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/f5fc958b56c11eb766a5e23ee479d86d.unity3d

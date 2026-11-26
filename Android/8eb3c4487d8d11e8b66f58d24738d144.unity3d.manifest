@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2518060075
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3a780dd01b8d066e83022d96940ec6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Cartoon Characters Pack3/Panda Warrior/Animations/Panda Warrior.controller
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/3d8a4cb1186eeed0cae1abafa91fc076.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/4d3ce16607a27dd7bd2edc5a22c23675.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/a6e14446b16b0bb71ee561b04861dc0b.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/a8e907cd9191740f08bcb8a7309bf30c.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/b829c3df2b0fa150a40ab377b3974258.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/d0fcbcb47f561b5b752509e2eba9a505.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/fcf978a538393e90470e2f6da25c07b3.unity3d

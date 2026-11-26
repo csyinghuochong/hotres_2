@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3266210893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2f473fefccccb97f60e3cda51ab5f90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c33d3594fb840798e3bd468c6c9d34d3
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/Cartoon Characters Pack3/Panda Warrior/Animations/Panda Warrior_idle.anim
+Dependencies: []

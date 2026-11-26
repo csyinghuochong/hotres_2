@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2320166376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c64b466bb0dcce12cc41165843adef8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EffectPackage/ArtData/BH/Effect/Animations/E3D-Skill-Blade-Blue1.controller
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1cd88b6cd99e61e07d19b216cf9f9ba6.unity3d

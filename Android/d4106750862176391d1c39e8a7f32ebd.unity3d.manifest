@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4193617202
+CRC: 3558619679
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d2da93bdce2669b0e05584f23c4acbaf
+    Hash: 16b79f0a090c4dde535f9348647ea130
   TypeTreeHash:
     serializedVersion: 2
     Hash: c098f9747acc6a8df59bca72343ebfc1
@@ -41,6 +41,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Effect/SkillEffect/Eff_Skill_BaoZha_57.prefab
 Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/01a3746930c785173218c7c77dcc479c.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/4b895e9fbfa266af0aab76b3614b4ea8.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5203f2fc1fcb529ab80fcce524c07a69.unity3d

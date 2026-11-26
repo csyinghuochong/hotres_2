@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2857930874
+CRC: 2599473167
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2df90c9a2544256147aad44b8365b382
+    Hash: 6a140e418a50997b70829d6fcdc1fce6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e048b4fb955bc04d5fd9104ecb9b848e
+    Hash: d7c0cb6ead8802f8c30a722444814582
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,15 +17,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
-  Script: {instanceID: 0}
-- Class: 74
   Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
@@ -39,14 +35,7 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Unit/Monster/72002013.prefab
 Dependencies:
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/34702992d3a07c73824868e6d41898bd.unity3d
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/36518f3bd341bc37ff6ccbce4f4eb145.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/467c6aa13728bf5e4d11a46c1ebc6099.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5c379eecfbda040472909c7d7fbbf218.unity3d
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5ee23a3b483b3fa64dbba2e6bb7352cf.unity3d
 - G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/7cd506cca17bf410faad8f25fad6e846.unity3d
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/923234143f7f36ba51eaf36fca08ef47.unity3d
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/d68e266e2a1905a9d3a4062b86e66fef.unity3d
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/ea41674d458a03b735ea5474beda1b64.unity3d
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/f8082a95f46c3d7f7a9ca12a0a3d1f37.unity3d
-- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/fe469b240d9366f647e7ccb42d99be3b.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/e18a58d78c81356bbcb22a8a764bb85c.unity3d

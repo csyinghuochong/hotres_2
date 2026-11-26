@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 303110317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5eb97ce91b8d2489c81900a005e0b264
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Hat_Diffuse_Blue.tga
+Dependencies: []

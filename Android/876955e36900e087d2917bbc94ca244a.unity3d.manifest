@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3806530880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b3409019b731bdf3e67135af42218ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Materials/Mobile/MushroomMinion/M_MushroomMinion_Weapons_Blue.mat
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5ee23a3b483b3fa64dbba2e6bb7352cf.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/5f47bf0de147992b99df6980406b5740.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/f8082a95f46c3d7f7a9ca12a0a3d1f37.unity3d

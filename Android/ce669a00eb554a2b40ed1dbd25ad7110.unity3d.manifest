@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 194387726
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23a729250093365d800997be14432c41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Materials/Mobile/MushroomMinion/M_MushroomMinion_Hat_Blue.mat
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/36518f3bd341bc37ff6ccbce4f4eb145.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/84065f30038c294c1a5641b961ffab69.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/d68e266e2a1905a9d3a4062b86e66fef.unity3d

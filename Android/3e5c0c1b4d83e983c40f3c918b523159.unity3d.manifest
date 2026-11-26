@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 3145781517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 316ec956e4e743bcf5ddb62dd7accf75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Materials/Mobile/ForestSpirit/M_ForestSpirit_Body_Nightmare.mat
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/7ebcd042fc704e44e7bcaa6fe5fd3046.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/afca08bd3cb2a8eb7ae6d638ad57f6fc.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/e3e89190c1063c8bb77fd5cca5b87a7a.unity3d

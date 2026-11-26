@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2796285959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 34e82b67198c6c6ce5e5e6b7faa1c508
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Textures/MushroomMinion/T_MushroomMinion_Body_Diffuse_Green.tga
+Dependencies: []

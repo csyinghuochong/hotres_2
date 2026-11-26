@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 881880785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2942800f1f2a0e179510148c540975ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ac4353984f9d013b83e89048e1ecdd0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Effect/EffectResSet/Effect_4/EScene/XWX-Effect-Dev/MaterialSample/E3D-Distort-Ring
+  9-bh 1.mat
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/05c54fb1b12167b8cb8aeb1f230730e3.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/1aa355706e1767666124331a716c7890.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/219fecbf3788270a782912f2d1671bd0.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/b07fc8778c3cc4d0a32b6a9026816b9c.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/edaaf08e8beb3d9d20de8a608d167ea3.unity3d

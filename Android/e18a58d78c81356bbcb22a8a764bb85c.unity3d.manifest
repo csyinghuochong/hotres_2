@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2864878988
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 901436e7cb80334ebc8620e888a4192e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d7c0cb6ead8802f8c30a722444814582
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Models/MonsterModel/StylizedMinions/Prefabs/Mobile/MushroomMinion/MushroomMinion
+  (4).prefab
+Dependencies:
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/00396320a65671cb3e76586deee6b3bc.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/571a98391fe49325b9b24d72226bbe56.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/7cd506cca17bf410faad8f25fad6e846.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/876955e36900e087d2917bbc94ca244a.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/ce669a00eb554a2b40ed1dbd25ad7110.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/ee630c75b2e8ccf885bea68f49f13400.unity3d
+- G:/GitWeiJing2020/Unity/../Release/DLCBeta/Android/fe469b240d9366f647e7ccb42d99be3b.unity3d
